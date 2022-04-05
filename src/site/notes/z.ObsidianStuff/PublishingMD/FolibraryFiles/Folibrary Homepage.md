@@ -2,27 +2,15 @@
 {"dg-publish":true,"permalink":"/z-obsidian-stuff/publishing-md/folibrary-files/folibrary-homepage/","tags":"gardenEntry"}
 ---
 
-# Hello Intruder!
-Something lorem is not ipsum.
+# FoliathR's Library
+ようこそ
+🖋
 
 [Some link nothing to see here](https://twitch.tv/foliathr)
 
-| test | test |
-| ---- | ---- |
-| 1    | 12   |
-| 23   | 32     |
-
-- bullet list 
-
-## heading 2
-
-### heading 3
-
-#### heading 4
-
-normal text
-
-> [!Tip] Tip 
-> Test admonition
-
+## 🍜 Recipes
 [[Recipes/How to Make Tofu Ice Cream - YouTube|How to Make Tofu Ice Cream - YouTube]]
+
+---
+[`fas:Twitch` Twitch](https://twitch.tv/foliathr)
+© 2022 FoliathR
