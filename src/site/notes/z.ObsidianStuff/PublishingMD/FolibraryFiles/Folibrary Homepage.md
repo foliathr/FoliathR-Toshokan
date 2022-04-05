@@ -3,7 +3,7 @@
 ---
 
 # FoliathR's Library
-ようこそ
+ようこそ 👋
 🖋 
 
 
@@ -12,4 +12,4 @@
 
 ---
 [📺 Twitch](https://twitch.tv/foliathr)
-© 2022 FoliathR
+`© 2022 FoliathR`
