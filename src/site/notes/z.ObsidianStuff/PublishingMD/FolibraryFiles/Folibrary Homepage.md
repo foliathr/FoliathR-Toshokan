@@ -9,7 +9,7 @@
 [Some link nothing to see here](https://twitch.tv/foliathr)
 
 ## 🍜 Recipes
-[[Recipes/How to Make Tofu Ice Cream - YouTube|How to Make Tofu Ice Cream - YouTube]]
+* [[Recipes/How to Make Tofu Ice Cream - YouTube|How to Make Tofu Ice Cream - YouTube]]
 
 ---
 [`fas:Twitch` Twitch](https://twitch.tv/foliathr)
