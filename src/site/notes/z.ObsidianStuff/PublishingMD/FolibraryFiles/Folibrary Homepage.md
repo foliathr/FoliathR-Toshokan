@@ -25,3 +25,4 @@ normal text
 > [!Tip] Tip 
 > Test admonition
 
+[[Recipes/How to Make Tofu Ice Cream - YouTube|How to Make Tofu Ice Cream - YouTube]]
