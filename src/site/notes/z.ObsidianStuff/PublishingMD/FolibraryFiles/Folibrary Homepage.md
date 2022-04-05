@@ -25,14 +25,3 @@ normal text
 > [!Tip] Tip 
 > Test admonition
 
-```dataview
-TABLE WITHOUT ID
-	link(file.link, title) AS "Title",
-	striptime(file.ctime) AS "Clipped",
-	author AS "By",
-	video AS Video
-FROM #recipe/dessert 
-WHERE dg-publish = true
-SORT file.ctime DESC
-```
-
