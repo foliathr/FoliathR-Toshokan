@@ -4,12 +4,13 @@
 
 # FoliathR's Library
 ようこそ 👋
-🖋 
+🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
 
 
 ## 🍜 Recipes
 * [[Recipes/How to Make Tofu Ice Cream|How to Make Tofu Ice Cream]]
 
+---
 ## 💬 Ask a question
 <form name="contact" method="POST" data-netlify="true">
   <p>
@@ -25,8 +26,6 @@
     <button type="submit">Send</button>
   </p>
 </form>
-
-
 ---
 [📺 Twitch](https://twitch.tv/foliathr)
 `© 2022 FoliathR`
