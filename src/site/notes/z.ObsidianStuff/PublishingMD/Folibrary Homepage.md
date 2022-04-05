@@ -4,3 +4,8 @@
 
 # Hello World!
 Something lorem is not ipsum.
+
+| test | test |
+| ---- | ---- |
+| 1    | 12   |
+| 23   | 32     |
