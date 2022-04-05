@@ -32,6 +32,7 @@ TABLE WITHOUT ID
 	author AS "By",
 	video AS Video
 FROM #recipe/dessert 
+WHERE dg-publish = true
 SORT file.ctime DESC
 ```
 
