@@ -3,7 +3,7 @@
 ---
 
 # FoliathR's Library
-ようこそ 👋
+ようこそ 👋 Welcome!
 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
 
 
