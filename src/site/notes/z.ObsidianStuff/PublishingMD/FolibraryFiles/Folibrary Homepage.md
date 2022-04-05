@@ -8,7 +8,7 @@
 
 
 ## 🍜 Recipes
-* [[Recipes/How to Make Tofu Ice Cream - YouTube|How to Make Tofu Ice Cream - YouTube]]
+* [[Recipes/How to Make Tofu Ice Cream|How to Make Tofu Ice Cream]]
 
 ---
 [📺 Twitch](https://twitch.tv/foliathr)
