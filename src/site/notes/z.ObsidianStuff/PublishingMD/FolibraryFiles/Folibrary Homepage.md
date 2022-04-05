@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/z-obsidian-stuff/publishing-md/folibrary-files/folibrary-homepage/","tags":"gardenEntry"}
 ---
 
-# Hello World!
+# Hello Intruder!
 Something lorem is not ipsum.
 
 [Some link nothing to see here](https://twitch.tv/foliathr)
