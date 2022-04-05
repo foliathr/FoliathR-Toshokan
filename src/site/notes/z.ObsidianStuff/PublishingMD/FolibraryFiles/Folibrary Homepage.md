@@ -5,12 +5,9 @@
 # FoliathR's Library
 ようこそ 👋 Welcome!
 
-> [!quote] Me
-> 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
->
->[📺 Twitch](https://twitch.tv/foliathr)
-
-
+## Me
+🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
+([📺 Twitch](https://twitch.tv/foliathr))
 
 
 ## 🍜 Recipes
