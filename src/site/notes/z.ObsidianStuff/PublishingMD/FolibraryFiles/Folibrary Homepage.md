@@ -26,6 +26,8 @@
     <button type="submit">Send</button>
   </p>
 </form>
+
 ---
+
 [📺 Twitch](https://twitch.tv/foliathr)
 `© 2022 FoliathR`
