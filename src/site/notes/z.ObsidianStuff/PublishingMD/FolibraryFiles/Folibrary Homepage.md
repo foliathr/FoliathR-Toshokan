@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/z-obsidian-stuff/publishing-md/folibrary-files/folibrary-homepage/","tags":"gardenEntry"}
 ---
 
-# FoliathR's Library
-ようこそ 👋 Welcome!
+# FoliathR's Library AHAHAHAHAHA
+ようこそ 👋 Welcome! 
 
 ## Me
 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
@@ -33,4 +33,4 @@
 ---
 
 `© 2022 FoliathR. `
-`Powered by Obsidian, Obsidian Digital Garden and Netlify`
+`Powered by Obsidian, obsidian-digital-garden and Netlify`
