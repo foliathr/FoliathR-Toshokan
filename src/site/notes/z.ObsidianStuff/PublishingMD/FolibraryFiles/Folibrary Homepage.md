@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/z-obsidian-stuff/publishing-md/folibrary-files/folibrary-homepage/","tags":"gardenEntry"}
 ---
 
-# FoliathR's Library AHAHAHAHAHA
+# FoliathR's Library
 ようこそ 👋 Welcome! 
 
 ## Me
