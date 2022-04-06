@@ -4,7 +4,7 @@
 
 # 簡単！家族に評判のもんじゃ焼き by hidetan
 *2022-04-05*
-https://cookpad.com/recipe/650174
+[https://cookpad.com/recipe/650174](https://cookpad.com/recipe/650174)
 
 > ## Excerpt
 > 市販のセットを使わずに、安く、おいしく、簡単に、がモットーのレシピです。塩もんじゃも作りました！ID:1442240
