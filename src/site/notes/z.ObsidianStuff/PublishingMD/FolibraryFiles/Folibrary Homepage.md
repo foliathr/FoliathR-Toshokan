@@ -12,6 +12,7 @@
 
 ## 🍜 Lazy People Recipes for Lazy People to be Lazy
 * [[Recipes/How to Make Tofu Ice Cream|How to Make Tofu Ice Cream]]
+* [[Recipes/Monjayaki|Monjayaki]]
 
 ---
 ## 💬 Ask a question
