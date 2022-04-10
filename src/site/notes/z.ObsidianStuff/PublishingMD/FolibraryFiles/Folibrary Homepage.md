@@ -34,4 +34,3 @@
 ---
 
 `© 2022 FoliathR. `
-`Powered by Obsidian, obsidian-digital-garden and Netlify`
