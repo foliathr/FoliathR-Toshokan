@@ -4,7 +4,7 @@
 # 麻薬卵🥚 作り方・レシピ | クラシル
 ---
 *2022-04-11*
-https://www.kurashiru.com/recipe_cards/115da3e2-7948-4324-adca-6205132980b2
+[https://www.kurashiru.com/recipe_cards/115da3e2-7948-4324-adca-6205132980b2](https://www.kurashiru.com/recipe_cards/115da3e2-7948-4324-adca-6205132980b2)
 ![](https://video.kurashiru.com/production/recipe_card_content/image_src_file/79579/image_original.jpg)![](https://video.kurashiru.com/production/recipe_card_content/image_src_file/79580/image_original.jpg)
 
 病みつきになるおつまみ麻薬卵！ 
