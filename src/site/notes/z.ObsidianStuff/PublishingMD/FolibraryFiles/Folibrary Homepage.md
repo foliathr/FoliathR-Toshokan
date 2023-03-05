@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/z-obsidian-stuff/publishing-md/folibrary-files/folibrary-homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/z-obsidian-stuff/publishing-md/folibrary-files/folibrary-homepage/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
 # FoliathR's Library
 ようこそ 👋 Welcome! 
 
+---
 ## Me
 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
 ([📺 Twitch](https://twitch.tv/foliathr))
@@ -35,4 +36,4 @@
 
 ---
 
-`© 2022 FoliathR. `
+`© 2023 FoliathR. `
