@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/monjayaki/","title":"Monjayaki","tags":["recipe","maindish","asian","cabbage","seafood","dashi","cheese","mentaiko"]}
+{"dg-publish":true,"permalink":"/recipes/monjayaki/","title":"Monjayaki","tags":["recipe","maindish","asian","cabbage","seafood","dashi","cheese","mentaiko"],"noteIcon":""}
 ---
 
 
