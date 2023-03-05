@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/z-obsidian-stuff/publishing-md/folibrary-files/folibrary-homepage/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/z-obsidian-stuff/publishing-md/folibrary-files/folibrary-homepage/","tags":["gardenEntry"]}
 ---
+
 
 # FoliathR's Library
 ようこそ 👋 Welcome! 
@@ -11,9 +12,9 @@
 
 
 ## 🍜 Lazy People Recipes for Lazy People to be Lazy
-* [[Recipes/How to Make Tofu Ice Cream|How to Make Tofu Ice Cream]] 🇬‍🇧
-* [[Recipes/Monjayaki|Monjayaki]] 🇯‍🇵
-* [[Recipes/Mayaku Tamago|Mayaku Tamago]] | 麻薬卵 🇯‍🇵
+* [[Recipes/How to Make Tofu Ice Cream\|How to Make Tofu Ice Cream]] 🇬‍🇧
+* [[Recipes/Monjayaki\|Monjayaki]] 🇯‍🇵
+* [[Recipes/Mayaku Tamago\|Mayaku Tamago]] | 麻薬卵 🇯‍🇵 
 
 ---
 ## 💬 Ask a question
