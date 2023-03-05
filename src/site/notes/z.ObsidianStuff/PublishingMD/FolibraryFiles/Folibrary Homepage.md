@@ -17,6 +17,18 @@
 * [[Recipes/Monjayaki\|Monjayaki]] 🇯‍🇵
 * [[Recipes/Mayaku Tamago\|Mayaku Tamago ]] 🇯‍🇵 
 
+## Test
+| Title                                                                                                          | Clipped    | By                | Video |
+| -------------------------------------------------------------------------------------------------------------- | ---------- | ----------------- | ----- |
+| [[Recipes/Tofu Ice Cream Rich, Silken Vegan Ice Cream\|Tofu Ice Cream: Decadent Vegan Ice Cream]]           | 03/04/2022 | TofuBud           | no    |
+| [[Recipes/How to Make Tofu Ice Cream\|How to Make Tofu Ice Cream]]                                          | 03/04/2022 | Dining with Alex  | yes   |
+| [[Recipes/Buta kakuni\|Buta kakuni hard to fail]]                                                           | 04/04/2022 | sirogohan         | yes   |
+| [[Recipes/Okra nikumaki tomato sauce\|Okra nikumaki tomato sauce]]                                          | 04/04/2022 | HuHuFumin         | no    |
+| [[Recipes/Monjayaki\|Monjayaki]]                                                                            | 05/04/2022 | by hidetan        | no    |
+| [[Recipes/Mayaku Tamago\|Mayaku Tamago]]                                                                    | 11/04/2022 | りりま               | no    |
+| [[Recipes/Crispy Panfried Crispy Chicken Thigh\|【シェフの技】プロはここが違う 原点にして頂点＜皮が圧倒的にバリっと仕上がる＞鶏もも肉の焼き方 - YouTube]] | 20/06/2022 | 料理人城二郎 GeorgeLABO | yes   |
+
+
 ---
 ## 💬 Ask a question
 <form name="contact" method="POST" data-netlify="true">
