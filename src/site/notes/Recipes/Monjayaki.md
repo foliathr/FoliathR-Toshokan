@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/monjayaki/"}
+{"dg-publish":true,"permalink":"/recipes/monjayaki/","title":"Monjayaki","tags":["recipe","maindish","asian","cabbage","seafood","dashi","cheese","mentaiko"]}
 ---
+
 
 # 簡単！家族に評判のもんじゃ焼き by hidetan
 *2022-04-05*
