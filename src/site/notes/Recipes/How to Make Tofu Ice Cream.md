@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/how-to-make-tofu-ice-cream/","title":"How to Make Tofu Ice Cream","tags":["recipe","tofu","icecream","dessert","youtube","asian"]}
+{"dg-publish":true,"permalink":"/recipes/how-to-make-tofu-ice-cream/","title":"How to Make Tofu Ice Cream","tags":["recipe","tofu","icecream","dessert","youtube","asian"],"noteIcon":""}
 ---
 
 
