@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/mayaku-tamago/","title":"Mayaku Tamago","tags":["egg","recipe","sidedish","asian","korean"]}
+{"dg-publish":true,"permalink":"/recipes/mayaku-tamago/","title":"Mayaku Tamago","tags":["egg","recipe","sidedish","asian","korean"],"noteIcon":""}
 ---
 
 # 麻薬卵🥚 作り方・レシピ | クラシル
