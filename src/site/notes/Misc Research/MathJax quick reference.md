@@ -91,10 +91,22 @@ Normal parentheses do *not* scale with the formula in between, so if you write
 > $\left.x^2\right\rvert_3^5 = 5^2-3^2$
 
 ## Sums and Integrals
-**Sums and integrals** `\sum` and `\int`; the subscript is the lower limit and the superscript is the upper limit, so for example `\sum_1^n` $\sum_1^n$$\sum_1^n$. Don't forget `{`…`}` if the limits are more than a single symbol. For example, `\sum_{i=0}^\infty i^2` is $\sum_{i=0}^\infty i^2$$\sum_{i=0}^\infty i^2$. Similarly, `\prod` $\prod$$\prod$, `\int` $\int$$\int$, `\bigcup` $\bigcup$$\bigcup$, `\bigcap` $\bigcap$$\bigcap$, `\iint` $\iint$$\iint$, `\iiint` $\iiint$$\iiint$, `\idotsint` $\idotsint$$\idotsint$.
+`\sum` and `\int`
+
+The subscript is the lower limit and the superscript is the upper limit, so for example `\sum_1^n` $\sum_1^n$. Don't forget `{`…`}` if the limits are more than a single symbol. 
+
+> [!EXAMPLE]+ Examples
+> `\sum_{i=0}^\infty i^2` is $\sum_{i=0}^\infty i^2$
+> `\prod` $\prod$
+> `\int` $\int$
+> `\bigcup` $\bigcup$
+> `\bigcap` $\bigcap$
+> `\iint` $\iint$
+> `\iiint` $\iiint$
+> `\idotsint` $\idotsint$
 
 ## Fractions
-**Fractions** There are [three ways to make these](https://math.meta.stackexchange.com/questions/12978/should-dfrac-be-edited-in). `\frac ab` applies to the next two groups, and produces $\frac ab$$\frac ab$; for more complicated numerators and denominators use `{`…`}`: `\frac{a+1}{b+1}` is $\frac{a+1}{b+1}$$\frac{a+1}{b+1}$. If the numerator and denominator are complicated, you may prefer `\over`, which splits up the group that it is in: `{a+1\over b+1}` is ${a+1\over b+1}$${a+1\over b+1}$. For continued fractions, [use `\cfrac` instead of `\frac`](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference/5058#5058).
+There are [three ways to make these](https://math.meta.stackexchange.com/questions/12978/should-dfrac-be-edited-in). `\frac ab` applies to the next two groups, and produces $\frac ab$$\frac ab$; for more complicated numerators and denominators use `{`…`}`: `\frac{a+1}{b+1}` is $\frac{a+1}{b+1}$$\frac{a+1}{b+1}$. If the numerator and denominator are complicated, you may prefer `\over`, which splits up the group that it is in: `{a+1\over b+1}` is ${a+1\over b+1}$${a+1\over b+1}$. For continued fractions, [use `\cfrac` instead of `\frac`](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference/5058#5058).
 
 ## Fonts
 -   Use `\mathbb` or `\Bbb` for "blackboard bold": $\mathbb{CHNQRZ}$$\mathbb{CHNQRZ}$.
