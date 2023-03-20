@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc-research/math-jax-quick-reference/","title":"MathJax quick reference","tags":["clips","mathjax","guides","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc-research/math-jax-quick-reference/","title":"MathJax Quick Reference","tags":["clips","mathjax","guides","obsidian"],"noteIcon":""}
 ---
 
 
