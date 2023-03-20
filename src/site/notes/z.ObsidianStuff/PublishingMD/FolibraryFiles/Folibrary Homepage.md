@@ -14,7 +14,7 @@
 
 ## 🆕 Newly Published/Updated Pages
 
-| Page                                                                                              | Updated    | file.folder   | Lang |
+| Page                                                                                              | Updated    | Category      | Lang |
 | ------------------------------------------------------------------------------------------------- | ---------- | ------------- | ---- |
 | [[Misc Research/MathJax quick reference\|MathJax Quick Reference (Concise and Clean Edition)]] | 20/03/2023 | Misc Research | \-   |
 | [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                               | 05/03/2023 | Recipes       | JP   |
