@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/misc-research/math-jax-quick-reference/","title":"MathJax Quick Reference","tags":["clips","mathjax","guides","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misc-research/math-jax-quick-reference/","title":"MathJax Quick Reference (Concise and Clean Edition)","tags":["clips","mathjax","guides","obsidian"],"dgShowInlineTitle":false,"noteIcon":""}
 ---
 
 
-# MathJax basic tutorial and quick reference
+# MathJax (Concise and Clean Edition)
 2023-02-28
 [Source](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
@@ -12,7 +12,8 @@ The formatting is cleaned up for human reading instead of messy point form. Lang
 
 > [!NOTE]- Changes
 > - Each section has a header instead of being points
-> - Moved code to start of sentences and removed unnecessary words that extend sentences unnecessarily
+> - Moved code to start of sentences
+> - Removed unnecessary words that extend sentences unnecessarily (eg "To use xxx, use `xxx`" → "xxx: `xxx`)
 > - Examples in callouts for easier reading
 > - Removed commas around MathJax Examples as they make them much more confusing to read
 > - Fixed many formatting inconsistencies and missing formatting
@@ -214,10 +215,11 @@ To add more space:
   $a\quad b$
   $a\qquad b$.
 
-To set plain text, use `\text{…}`: $\{x\in s\mid x\text{ is extra large}\}$. You can nest `$…$` inside of `\text{…}`, for example to access spaces.
+Plain text: `\text{…}`: $\{x\in s\mid x\text{ is extra large}\}$. You can nest `$…$` inside of `\text{…}`, for example to access spaces.
 
 ## Accents and Diacritical Marks
-Use `\hat` for a single symbol $\hat x$, `\widehat` for a larger formula $\widehat{xy}$. If you make it too wide, it will look silly.
+`\hat` for a single symbol $\hat x$
+`\widehat` for a larger formula $\widehat{xy}$. If you make it too wide, it will look silly.
 
 Similarly, there are:
 - `\bar` $\bar x$ and `\overline` $\overline{xyz}$
