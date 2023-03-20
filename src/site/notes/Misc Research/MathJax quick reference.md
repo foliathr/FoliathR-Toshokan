@@ -36,7 +36,7 @@ Enclose the formula in `$`…`$`.
 >
 > to show $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$ as part of the line.
 
-### Displayed and centred
+### Displayed and Centred
 Enclose formula in `$$`…`$$`.
 
 > [!EXAMPLE]+ Example
