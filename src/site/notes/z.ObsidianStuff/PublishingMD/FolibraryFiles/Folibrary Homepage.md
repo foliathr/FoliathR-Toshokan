@@ -31,26 +31,26 @@
 ~
 ## 🥄 Latest Lazy People Recipes for Lazy People to be Lazy
 
-| Recipe                                                                                                         | Clipped    | By                                  | Lang | Video |
-| -------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------- | ---- | ----- |
-| [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                                            | 06/03/2023 | <ul><li>りりま</li><li>兎田ぺこら</li></ul> | JP   | no    |
-| [[Recipes/Tofu Ice Cream Rich, Silken Vegan Ice Cream\|Tofu Ice Cream: Decadent Vegan Ice Cream]]           | 12/01/2023 | TofuBud                             | GB   | no    |
-| [[Recipes/Crispy Panfried Crispy Chicken Thigh\|【シェフの技】プロはここが違う 原点にして頂点＜皮が圧倒的にバリっと仕上がる＞鶏もも肉の焼き方 - YouTube]] | 12/01/2023 | 料理人城二郎 GeorgeLABO                   | JP   | yes   |
-| [[Recipes/Monjayaki\|Monjayaki]]                                                                            | 12/01/2023 | by hidetan                          | JP   | no    |
-| [[Recipes/How to Make Tofu Ice Cream\|How to Make Tofu Ice Cream]]                                          | 12/01/2023 | Dining with Alex                    | GB   | yes   |
-| [[Recipes/Okra nikumaki tomato sauce\|Okra nikumaki tomato sauce]]                                          | 12/01/2023 | HuHuFumin                           | JP   | no    |
-| [[Recipes/Buta kakuni\|Buta kakuni hard to fail]]                                                           | 12/01/2023 | sirogohan                           | JP   | yes   |
+| Recipe                                                                                                         | By                                  | Lang | Video |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ---- | ----- |
+| [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                                            | <ul><li>りりま</li><li>兎田ぺこら</li></ul> | JP   | no    |
+| [[Recipes/Tofu Ice Cream Rich, Silken Vegan Ice Cream\|Tofu Ice Cream: Decadent Vegan Ice Cream]]           | TofuBud                             | GB   | no    |
+| [[Recipes/Crispy Panfried Crispy Chicken Thigh\|【シェフの技】プロはここが違う 原点にして頂点＜皮が圧倒的にバリっと仕上がる＞鶏もも肉の焼き方 - YouTube]] | 料理人城二郎 GeorgeLABO                   | JP   | yes   |
+| [[Recipes/Monjayaki\|Monjayaki]]                                                                            | by hidetan                          | JP   | no    |
+| [[Recipes/How to Make Tofu Ice Cream\|How to Make Tofu Ice Cream]]                                          | Dining with Alex                    | GB   | yes   |
+| [[Recipes/Okra nikumaki tomato sauce\|Okra nikumaki tomato sauce]]                                          | HuHuFumin                           | JP   | no    |
+| [[Recipes/Buta kakuni\|Buta kakuni hard to fail]]                                                           | sirogohan                           | JP   | yes   |
 
 
 ~
 ## 🍜 Latest Food Reviews
 
-| Shop                                                                        | Last Visit | Address                                           | Review Score |
-| --------------------------------------------------------------------------- | ---------- | ------------------------------------------------- | ------------ |
-| [[FoodReviews/Tsukemen Tetsu 20220714\|Tsukemen Tetsu 20220714]]         | 14/07/2022 |                                                   | 5            |
-| [[FoodReviews/Ikoi Miramar\|Ikoi Miramar]]                               | 08/07/2022 | 401 Havelock Rd, Singapore 169631                 | 4.5          |
-| [[FoodReviews/Keisuke Tonkotsu King Ramen\|Keisuke Tonkotsu King Ramen]] | 19/06/2022 | 1 Tras Link, 01-19 Orchid Hotel, Singapore 078867 | 5            |
-| [[FoodReviews/Kushi Dining\|Kushi Dining]]                               | 03/05/2022 | 526 MacPherson Rd, Singapore 368216               | 5            |
+| Shop                                                                        | Address                                           | Review Score |
+| --------------------------------------------------------------------------- | ------------------------------------------------- | ------------ |
+| [[FoodReviews/Tsukemen Tetsu 20220714\|Tsukemen Tetsu 20220714]]         |                                                   | 5            |
+| [[FoodReviews/Ikoi Miramar\|Ikoi Miramar]]                               | 401 Havelock Rd, Singapore 169631                 | 4.5          |
+| [[FoodReviews/Keisuke Tonkotsu King Ramen\|Keisuke Tonkotsu King Ramen]] | 1 Tras Link, 01-19 Orchid Hotel, Singapore 078867 | 5            |
+| [[FoodReviews/Kushi Dining\|Kushi Dining]]                               | 526 MacPherson Rd, Singapore 368216               | 5            |
 
 
 ---
