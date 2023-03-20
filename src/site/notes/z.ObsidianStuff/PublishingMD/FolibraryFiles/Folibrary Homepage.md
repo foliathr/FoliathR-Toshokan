@@ -11,7 +11,7 @@
 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
 ([📺 Twitch](https://twitch.tv/foliathr))
 
-
+~
 ## 🆕 Newly Published/Updated Pages
 
 | Page                                                                                                 | Updated    | Category      | Lang |
@@ -28,7 +28,7 @@
 | [[Recipes/Monjayaki\|Monjayaki]]                                                                  | 05/03/2023 | Recipes       | JP   |
 
 
-
+~
 ## 🥄 Latest Lazy People Recipes for Lazy People to be Lazy
 
 | Recipe                                                                                                         | Clipped    | By                                  | Lang | Video |
@@ -42,7 +42,7 @@
 | [[Recipes/Buta kakuni\|Buta kakuni hard to fail]]                                                           | 12/01/2023 | sirogohan                           | JP   | yes   |
 
 
-
+~
 ## 🍜 Latest Food Reviews
 
 | Shop                                                                        | Last Visit | Address                                            | Review Score |
