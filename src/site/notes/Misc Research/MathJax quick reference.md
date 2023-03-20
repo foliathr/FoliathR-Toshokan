@@ -15,6 +15,7 @@ The formatting is cleaned up for human reading instead of messy point form. Lang
 > - Moved code to start of sentences and removed unnecessary words that extend sentences unnecessarily
 > - Examples in callouts for easier reading
 > - Removed commas around MathJax Examples as they make them much more confusing to read
+> - Fixed many formatting inconsistencies and missing formatting
 > - New line for each code introduced in each section
 > - Smaller clean-up (eg removing spaces between points and text - why even??)
 
@@ -226,7 +227,7 @@ Similarly, there are:
 
 ## Escaping Special Characters
 Special characters used for MathJax interpreting can be escaped using the `\` character:
-- \\$ $\$$
+- `\\$` $\$$
 - `\{` $\{$
 - `\}` $\}$
 - `\_` $\_$
