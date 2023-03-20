@@ -229,7 +229,7 @@ Similarly, there are:
 
 ## Escaping Special Characters
 Special characters used for MathJax interpreting can be escaped using the `\` character:
-- `\\$` $\$$
+- `\$` $\$$
 - `\{` $\{$
 - `\}` $\}$
 - `\_` $\_$
