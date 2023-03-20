@@ -3,17 +3,19 @@
 ---
 
 
-# MathJax (Concise and Clean Edition)
+# MathJax Quick Reference (Concise and Clean Edition)
 2023-02-28
 [Source](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
 ## FoliathR's Notes
-The formatting is cleaned up for human reading instead of messy point form. Language has been simplified and made consistent to easily find what is needed.
+A.k.a _"I-am-probably-too-particular-about-things-that-people-don't-really-care-about Edition"_
+
+In summary, formatting is cleaned up for human reading instead of messy point form. Language has been simplified and made consistent to easily find what is needed.
 
 > [!NOTE]- Changes
 > - Each section has a header instead of being points
 > - Moved code to start of sentences
-> - Removed unnecessary words that extend sentences unnecessarily (eg "To use xxx, use `xxx`" → "xxx: `xxx`)
+> - Removed unnecessary words that extend sentences unnecessarily (eg "To use xxx, use `xxx`" → "xxx: `xxx`")
 > - Examples in callouts for easier reading
 > - Removed commas around MathJax Examples as they make them much more confusing to read
 > - Fixed many formatting inconsistencies and missing formatting
