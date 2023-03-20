@@ -11,6 +11,7 @@
 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
 ([📺 Twitch](https://twitch.tv/foliathr))
 
+
 ## 🆕 Newly Published/Updated Pages
 
 | Page                                                                                              | Updated    | file.folder   | Lang |
@@ -18,6 +19,7 @@
 | [[Misc Research/MathJax quick reference\|MathJax Quick Reference (Concise and Clean Edition)]] | 20/03/2023 | Misc Research | \-   |
 | [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                               | 05/03/2023 | Recipes       | JP   |
 | [[Crafting/How to make recycled paper\|How to make recycled paper]]                            | 05/03/2023 | Crafting      | GB   |
+
 
 
 ## 🍜 Lazy People Recipes for Lazy People to be Lazy
