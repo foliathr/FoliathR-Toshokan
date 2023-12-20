@@ -14,18 +14,18 @@
 ~
 ## 🆕 Newly Published/Updated
 
-| Page                                                                                              | Updated    | Category      | Lang |
-| ------------------------------------------------------------------------------------------------- | ---------- | ------------- | ---- |
-| [[Recipes/Tofu Ice Cream\|Tofu Ice Cream: Decadent Vegan Ice Cream]]                           | 20/12/2023 | Recipes       | GB   |
-| [[Recipes/Okra Nikumaki Tomato Sauce\|Okra Nikumaki Tomato Sauce]]                             | 20/12/2023 | Recipes       | JP   |
-| [[Recipes/Buta Kakuni\|Buta Kakuni (Hard to Fail)]]                                            | 20/12/2023 | Recipes       | JP   |
-| [[Recipes/Crispy Panfried Crispy Chicken Thigh\|Crispy Panfried Crispy Chicken Thigh]]         | 20/12/2023 | Recipes       | JP   |
-| [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                               | 20/12/2023 | Recipes       | JP   |
-| [[FoodReviews/Tsukemen Tetsu 20220714\|Tsukemen Tetsu 20220714]]                               | 20/03/2023 | FoodReviews   | \-   |
-| [[FoodReviews/Keisuke Tonkotsu King Ramen\|Keisuke Tonkotsu King Ramen]]                       | 20/03/2023 | FoodReviews   | \-   |
-| [[FoodReviews/Ikoi Miramar\|Ikoi Miramar]]                                                     | 20/03/2023 | FoodReviews   | \-   |
-| [[FoodReviews/Kushi Dining\|Kushi Dining]]                                                     | 20/03/2023 | FoodReviews   | \-   |
-| [[Misc Research/MathJax quick reference\|MathJax Quick Reference (Concise and Clean Edition)]] | 20/03/2023 | Misc Research | \-   |
+| Page                                                                                      | Updated    | Category    | Lang |
+| ----------------------------------------------------------------------------------------- | ---------- | ----------- | ---- |
+| [[Recipes/Tofu Ice Cream Vegan\|Tofu Ice Cream: Decadent Vegan Ice Cream]]             | 20/12/2023 | Recipes     | GB   |
+| [[Recipes/Tofu Ice Cream - YouTube\|Tofu Ice Cream (YouTube)]]                         | 20/12/2023 | Recipes     | GB   |
+| [[Recipes/Okra Nikumaki Tomato Sauce\|Okra Nikumaki Tomato Sauce]]                     | 20/12/2023 | Recipes     | JP   |
+| [[Recipes/Buta Kakuni\|Buta Kakuni (Hard to Fail)]]                                    | 20/12/2023 | Recipes     | JP   |
+| [[Recipes/Crispy Panfried Crispy Chicken Thigh\|Crispy Panfried Crispy Chicken Thigh]] | 20/12/2023 | Recipes     | JP   |
+| [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                       | 20/12/2023 | Recipes     | JP   |
+| [[FoodReviews/Tsukemen Tetsu 20220714\|Tsukemen Tetsu 20220714]]                       | 20/03/2023 | FoodReviews | \-   |
+| [[FoodReviews/Keisuke Tonkotsu King Ramen\|Keisuke Tonkotsu King Ramen]]               | 20/03/2023 | FoodReviews | \-   |
+| [[FoodReviews/Ikoi Miramar\|Ikoi Miramar]]                                             | 20/03/2023 | FoodReviews | \-   |
+| [[FoodReviews/Kushi Dining\|Kushi Dining]]                                             | 20/03/2023 | FoodReviews | \-   |
 
 { .block-language-dataview}
 
@@ -39,8 +39,8 @@
 | [[Recipes/Monjayaki\|Monjayaki]]                                                       | by hidetan                          | JP   | no    |
 | [[Recipes/Okra Nikumaki Tomato Sauce\|Okra Nikumaki Tomato Sauce]]                     | HuHuFumin                           | JP   | no    |
 | [[Recipes/Buta Kakuni\|Buta Kakuni (Hard to Fail)]]                                    | sirogohan                           | JP   | yes   |
-| [[Recipes/How to Make Tofu Ice Cream\|How to Make Tofu Ice Cream]]                     | Dining with Alex                    | GB   | yes   |
-| [[Recipes/Tofu Ice Cream\|Tofu Ice Cream: Decadent Vegan Ice Cream]]                   | TofuBud                             | GB   | no    |
+| [[Recipes/Tofu Ice Cream - YouTube\|Tofu Ice Cream (YouTube)]]                         | Dining with Alex                    | GB   | yes   |
+| [[Recipes/Tofu Ice Cream Vegan\|Tofu Ice Cream: Decadent Vegan Ice Cream]]             | TofuBud                             | GB   | no    |
 
 { .block-language-dataview}
 
