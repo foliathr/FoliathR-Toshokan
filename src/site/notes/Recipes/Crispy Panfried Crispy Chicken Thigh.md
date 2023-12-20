@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/crispy-panfried-crispy-chicken-thigh/","title":"【シェフの技】プロはここが違う 原点にして頂点＜皮が圧倒的にバリっと仕上がる＞鶏もも肉の焼き方 - YouTube","tags":["clips","recipe","chicken","crispy","panfry","tip"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/recipes/crispy-panfried-crispy-chicken-thigh/","title":"Crispy Panfried Crispy Chicken Thigh","tags":["clips","recipe","chicken","crispy","panfry","tip"],"noteIcon":""}
 ---
 
 
