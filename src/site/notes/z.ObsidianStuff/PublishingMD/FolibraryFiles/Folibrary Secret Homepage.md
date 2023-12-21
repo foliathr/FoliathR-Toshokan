@@ -16,6 +16,7 @@
 
 | Page                                                                                                              | Updated    | Category                                    | Lang |
 | ----------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------- | ---- |
+| [[Creations/FoliathR Song Requests\|FoliathR Song Requests]]                                                   | 21/12/2023 | Creations                                   | \-   |
 | [[z.ObsidianStuff/PublishingMD/FolibraryFiles/Folibrary Secret Homepage\|Folibrary Secret Homepage]]           | 21/12/2023 | z.ObsidianStuff/PublishingMD/FolibraryFiles | \-   |
 | [[Misc Research/JP Language/01 Japanese Language Learning Resources\|01 Japanese Language Learning Resources]] | 21/12/2023 | Misc Research/JP Language                   | \-   |
 | [[Recipes/Tofu Ice Cream Vegan\|Tofu Ice Cream: Decadent Vegan Ice Cream]]                                     | 20/12/2023 | Recipes                                     | GB   |
@@ -25,7 +26,6 @@
 | [[Recipes/Crispy Panfried Crispy Chicken Thigh\|Crispy Panfried Crispy Chicken Thigh]]                         | 20/12/2023 | Recipes                                     | JP   |
 | [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                                               | 20/12/2023 | Recipes                                     | JP   |
 | [[FoodReviews/Tsukemen Tetsu 20220714\|Tsukemen Tetsu 20220714]]                                               | 20/03/2023 | FoodReviews                                 | \-   |
-| [[FoodReviews/Keisuke Tonkotsu King Ramen\|Keisuke Tonkotsu King Ramen]]                                       | 20/03/2023 | FoodReviews                                 | \-   |
 
 { .block-language-dataview}
 
