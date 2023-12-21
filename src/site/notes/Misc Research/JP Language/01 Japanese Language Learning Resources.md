@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"jp-resources","permalink":"/jp-resources/","tags":["japanese","learningresources","language"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"jp-resources","permalink":"/jp-resources/","tags":["japanese","learningresources","language"],"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","noteIcon":""}
 ---
 
 # Japanese Language Learning Resources
+Just a compilation of links to useful resources for learning Japanese at all levels.
 ## General
 JP-EN Dictionary: [https://jisho.org](https://jisho.org/)/
 
