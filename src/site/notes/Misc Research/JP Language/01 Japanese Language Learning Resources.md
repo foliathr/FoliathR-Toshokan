@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc-research/jp-language/01-japanese-language-learning-resources/","tags":["japanese","learningresources","language"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"jp-resources","permalink":"/jp-resources/","tags":["japanese","learningresources","language"],"noteIcon":""}
 ---
 
 # Japanese Language Learning Resources
@@ -8,6 +8,8 @@ JP-EN Dictionary: https://jisho.org/
 Grammar: https://core6000.neocities.org/dojg/
 Kanji Search (with stroke order animation and examples): https://hochanh.github.io/rtk/index.html
 連想類語辞典 Thesaurus: https://renso-ruigo.com/
+
+---
 ## Learning by Level
 ### All Levels
 Site by Japanese Teacher in Chinese University (N5 to N0): https://mainichi-nonbiri.com/
@@ -31,9 +33,11 @@ Learn Japanese Online - Intermediate Japanese Lessons: https://www.learn-japanes
 Anki Deck: https://ankiweb.net/shared/info/1225470483
 Pitch accent database: https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home
 
+---
 ## Games that may or may not help in learning
 漢字でGO! Kanji de go!: https://plicy.net/GamePlay/155561
 
+---
 ## Resources
 Textbooks, Manga, Novels, Movies, Fonts: https://djtguide.neocities.org/cor#study
 Anki2 Add-On to look-up the pronunciation of Japanese expressions: https://github.com/javdejong/nhk-pronunciation
