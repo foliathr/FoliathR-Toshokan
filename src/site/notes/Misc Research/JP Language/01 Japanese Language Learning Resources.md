@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"jp-resources","permalink":"/jp-resources/","tags":["japanese","learningresources","language"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"jp-resources","permalink":"/jp-resources/","tags":["japanese","learningresources","language"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","noteIcon":""}
 ---
 
 # Japanese Language Learning Resources
