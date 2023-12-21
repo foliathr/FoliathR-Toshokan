@@ -14,7 +14,7 @@
 ~
 
 ## Japanese Language
-[[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Resources]]
+[[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Learning Resources]]
 
 ## Stream-related
 [[Creations/FoliathR Song Requests\|List of Songs for Requests]]
