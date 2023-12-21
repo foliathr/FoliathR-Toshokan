@@ -14,10 +14,10 @@
 ~
 
 ## Japanese Language
-[[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language]]
+[[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Resources]]
 
 ## Stream-related
-[[Creations/FoliathR Song Requests\|FoliathR Song Requests]]
+[[Creations/FoliathR Song Requests\|List of Songs for Requests]]
 
 ---
 ## 💬 Ask a question
