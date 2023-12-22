@@ -3,7 +3,7 @@
 ---
 
 
-# FoliathR's Library
+# FoliathR's Other Library
 ようこそ 👋 Welcome! 
 
 ---
