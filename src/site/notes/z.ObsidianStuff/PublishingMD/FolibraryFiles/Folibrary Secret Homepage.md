@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"secret-home","permalink":"/secret-home/","hide":"true","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"secret-home","permalink":"/secret-home/","hide":"true","dgShowInlineTitle":"false","noteIcon":""}
 ---
 
 
