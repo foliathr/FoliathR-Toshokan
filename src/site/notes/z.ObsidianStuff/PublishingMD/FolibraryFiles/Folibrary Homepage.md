@@ -11,6 +11,7 @@
 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
 ★[📺 Twitch](https://twitch.tv/foliathr) ★ 🏔 <a rel="me" href="https://fosstodon.org/@foliathr">Mastodon</a> ★
 
+~
 ## Japanese Language 🎌
 [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Learning Resources]]
 
