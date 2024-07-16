@@ -23,7 +23,10 @@ I'm in Kyushu! Have been planning since 2019. Planned itinerary includes: Fukuok
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 #### Donations/support for IRL stream
 If you would like to help share some of the costs of streaming:
-Donate here
+\>\>\> Donate here <<<
+
+<a href="linkpls" style="background-color:#9a4ef1; display:inline-block; padding:0.3em 1.2em; margin:0 0.1em 0.1em 0; border:0.16em solid rgba(255,255,255,0); border-radius:2em; box-sizing: border-box; color:#FFFFFF; text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35); text-align:center">Button 6</a>
+
 
 Some breakdowns of costs:
 - Data: ~$80
