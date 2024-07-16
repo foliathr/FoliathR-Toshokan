@@ -37,5 +37,5 @@
 2.  Add the melted chocolate and blend until well combined. Stop and wipe down the sides of the blender with a spatula, as needed.
 3.  Add the oat milk, vanilla extract, and salt. Puree until smooth.
 4.  Remove from the blender. Cover the chocolate mixture and let it chill in the refrigerator for a minimum of 1 hr.
-5.  Take the mixture out of the fridge, and pour it into an [[ice cream maker\|ice cream maker]]. Churn your ice cream according to the manufacturer's instructions.
+5.  Take the mixture out of the fridge, and pour it into an Ice Cream Maker. Churn your ice cream according to the manufacturer's instructions.
 6.  Enjoy your dairy-free ice cream immediately as a soft-serve texture. For hard ice cream, pack it into a freezer-safe container and place in the freezer until it becomes solid.

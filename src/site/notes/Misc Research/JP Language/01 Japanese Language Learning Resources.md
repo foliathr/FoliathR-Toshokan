@@ -32,9 +32,21 @@ Learn Japanese Online - Intermediate Japanese Lessons: [https://www.learn-japane
 
 🇯‍🇵 🇬‍🇧 Japanese and English formal letters: [https://ejje.weblio.jp/sentence](https://ejje.weblio.jp/sentence/)/
 
-🇯‍🇵 Kansai-ben Lessons: [http://www.eastudies.org/guide_kansaiben.html](http://www.eastudies.org/guide_kansaiben.html)
-
 🇯‍🇵 Puns: [https://dajare.jp](https://dajare.jp/)/
+
+#### Kansai-ben and Dialects
+🇬‍🇧 Kansai-ben Lessons: [http://www.eastudies.org/guide_kansaiben.html](http://www.eastudies.org/guide_kansaiben.html)
+
+🇬‍🇧 YouTube lessons:
+- Chow Chow Channel: https://www.youtube.com/@ChowChowChannel
+
+### Converters
+🇯‍🇵 Regional dialects:
+- Multiple dialects converter (with some fun ones like 夜露死苦, うさぎ etc): https://www.8toch.net/translate/
+- 関西弁 Kansai-ben: https://osaka.uda2.com/
+
+🇯‍🇵 敬語 Keigo: https://3keigo.com/
+
 #### Pitch Accents
 Anki Deck: [https://ankiweb.net/shared/info/1225470483](https://ankiweb.net/shared/info/1225470483)
 
