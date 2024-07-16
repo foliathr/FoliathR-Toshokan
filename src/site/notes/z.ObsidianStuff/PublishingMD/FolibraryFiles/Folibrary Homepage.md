@@ -35,10 +35,11 @@ Some breakdowns of costs:
 …yeah IRL is quite expensive, any support would be greatly appreciated. Thanks!
 
 ##### Donation Rewards and Milestones!
+If you don't know what songs I know, choose from the song list: [[Creations/FoliathR Song Requests\|Song Request Song List]]
 
 | Donation Rewards (Individual)                                                             | Milestones (Collective)                    |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------ |
-| $5 - Song request                                                                         | $75 - Lucky draw                           |
+| $5 - Song request x1                                                                      | $75 - Lucky draw                           |
 | $20 - Above + Handwritten card                                                            | $100 - Cooking stream                      |
 | $50 - Above + 1 souvenir from Kyushu (optional if you don't want to give me your address) | $200 - Sus hotel stream                    |
 |                                                                                           | $300 - Onsen stream                        |
@@ -54,7 +55,6 @@ Feel free to request:
 - Otaku places (eg Luffy statue in Kumamoto)
 - ???
 
-[[Creations/FoliathR Song Requests\|List of Songs for Requests]]
 
 ---
 ## Japanese Language 🎌

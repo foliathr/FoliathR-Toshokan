@@ -16,6 +16,7 @@
 
 | Page                                                                                                              | Updated    | Category                                    | Lang |
 | ----------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------- | ---- |
+| [[Creations/FoliathR Song Requests\|FoliathR Song Requests]]                                                   | 16/07/2024 | Creations                                   | \-   |
 | [[Misc Research/JP Language/01 Japanese Language Learning Resources\|01 Japanese Language Learning Resources]] | 16/07/2024 | Misc Research/JP Language                   | \-   |
 | [[Recipes/Tofu Ice Cream Vegan\|Tofu Ice Cream: Decadent Vegan Ice Cream]]                                     | 28/06/2024 | Recipes                                     | GB   |
 | [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                                               | 26/01/2024 | Recipes                                     | JP   |
@@ -24,7 +25,6 @@
 | [[FoodReviews/Keisuke Tonkotsu King Ramen\|Keisuke Tonkotsu King Ramen]]                                       | 12/01/2024 | FoodReviews                                 | \-   |
 | [[FoodReviews/Ikoi Miramar\|Ikoi Miramar]]                                                                     | 12/01/2024 | FoodReviews                                 | \-   |
 | [[z.ObsidianStuff/PublishingMD/FolibraryFiles/Folibrary Secret Homepage\|Folibrary Secret Homepage]]           | 22/12/2023 | z.ObsidianStuff/PublishingMD/FolibraryFiles | \-   |
-| [[Creations/FoliathR Song Requests\|FoliathR Song Requests]]                                                   | 21/12/2023 | Creations                                   | \-   |
 | [[Recipes/Tofu Ice Cream - YouTube\|Tofu Ice Cream (YouTube)]]                                                 | 20/12/2023 | Recipes                                     | GB   |
 
 { .block-language-dataview}
