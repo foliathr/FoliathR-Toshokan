@@ -21,25 +21,36 @@ Follow and watch on [📺 Twitch](https://twitch.tv/foliathr)
 I'm in Kyushu! Have been planning since 2019. Planned itinerary includes: Fukuoka, Nagasaki, Kumamoto, Kagoshima, Miyazaki, Oita (Beppu), Kitakyushu, Hiroshima and some random spots around Osaka.
 
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
-#### Donations/support for IRL stream
+#### Donations/support for IRL stream and mayo
 If you would like to help share some of the costs of streaming:
-\>\>\> Donate here <<<
 
-<div style="display:block; margin:0.2em auto padding:0.3em 1.2em; margin:0 0.1em 0.1em 0; border:0.16em solid rgba(255,255,255,0); border-radius:2em; box-sizing: border-box; color:#FFFFFF; text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35); text-align:center"><a href="linkpls" style="display:inline-block; background-color:#9a4ef1">Button 6</a></div>
-
+<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #000; border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
 
 Some breakdowns of costs:
 - Data: ~$80
 - Transport: ~$700
 - Equipment: ~$200
+- Mayo: ~$500 (jkjk)
+
 …yeah IRL is quite expensive, any support would be greatly appreciated. Thanks!
 
-#### Requests
-Form for requests
+##### Donation Rewards and Milestones!
+
+| Donation Rewards (Individual)                                                             | Milestones (Collective)                    |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------ |
+| $5 - Song request                                                                         | $75 - Lucky draw                           |
+| $20 - Above + Handwritten card                                                            | $100 - Cooking stream                      |
+| $50 - Above + 1 souvenir from Kyushu (optional if you don't want to give me your address) | $200 - Sus hotel stream                    |
+|                                                                                           | $300 - Onsen stream                        |
+|                                                                                           | $1000 - Okinawa/Hokkaido trip (you choose) |
+
+#### Request Form
+
+<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #000; border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
 
 Feel free to request:
 - Food places (snacks/restaurants)
-- Scenic places
+- Scenic places (parks/beaches/mountains)
 - Otaku places (eg Luffy statue in Kumamoto)
 - ???
 
