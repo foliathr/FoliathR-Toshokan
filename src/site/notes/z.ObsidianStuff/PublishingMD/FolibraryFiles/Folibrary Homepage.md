@@ -9,14 +9,41 @@
 ---
 ## Me
 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
-★[📺 Twitch](https://twitch.tv/foliathr) ★ 🏔 <a rel="me" href="https://fosstodon.org/@foliathr">Mastodon</a> ★
+★[📺 Twitch](https://twitch.tv/foliathr) ★
 
 ~
+## Stream-related 📺
+### Kyushu 九州 2024 🗾
+Follow and watch on [📺 Twitch](https://twitch.tv/foliathr)
+
+![Folibrary Homepage-20240716161747668.webp|100](/img/user/z.Images/image/Folibrary%20Homepage-20240716161747668.webp)
+
+I'm in Kyushu! Have been planning since 2019. Planned itinerary includes: Fukuoka, Nagasaki, Kumamoto, Kagoshima, Miyazaki, Oita (Beppu), Kitakyushu, Hiroshima and some random spots around Osaka.
+
+![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
+#### Donations/support for IRL stream
+If you would like to help share some of the costs of streaming:
+Donate here
+
+Some breakdowns of costs:
+- Data: ~$80
+- Transport: ~$700
+- Equipment: ~$200
+…yeah IRL is quite expensive, any support would be greatly appreciated. Thanks!
+
+#### Requests
+Form for requests
+
+Feel free to request:
+- Food places (snacks/restaurants)
+- Scenic places
+- Otaku places (eg Luffy statue in Kumamoto)
+- ???
+
+[[Creations/FoliathR Song Requests\|List of Songs for Requests]]
+
 ## Japanese Language 🎌
 [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Learning Resources]]
-
-## Stream-related 📺
-[[Creations/FoliathR Song Requests\|List of Songs for Requests]]
 
 ---
 ## 💬 Ask a question
@@ -37,4 +64,5 @@
 
 ---
 
-`© 2023 FoliathR. `
+`© 2024 FoliathR. `
+<a rel="me" href="https://fosstodon.org/@foliathr"></a>
