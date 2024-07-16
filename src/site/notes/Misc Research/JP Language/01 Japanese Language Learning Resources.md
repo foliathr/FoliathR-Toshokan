@@ -38,14 +38,14 @@ Learn Japanese Online - Intermediate Japanese Lessons: [https://www.learn-japane
 🇬‍🇧 Kansai-ben Lessons: [http://www.eastudies.org/guide_kansaiben.html](http://www.eastudies.org/guide_kansaiben.html)
 
 🇬‍🇧 YouTube lessons:
-- Chow Chow Channel: https://www.youtube.com/@ChowChowChannel
+- [Chow Chow Channel](https://www.youtube.com/@ChowChowChannel)
 
 ### Converters
 🇯‍🇵 Regional dialects:
-- Multiple dialects converter (with some fun ones like 夜露死苦, うさぎ etc): https://www.8toch.net/translate/
-- 関西弁 Kansai-ben: https://osaka.uda2.com/
+- Multiple dialects converter (with some fun ones like 夜露死苦, うさぎ etc): [https://www.8toch.net/translate/](https://www.8toch.net/translate]/)
+- 関西弁 Kansai-ben: [https://osaka.uda2.com/](https://osaka.uda2.com/)
 
-🇯‍🇵 敬語 Keigo: https://3keigo.com/
+🇯‍🇵 敬語 Keigo: [https://3keigo.com/](https://3keigo.com/)
 
 #### Pitch Accents
 Anki Deck: [https://ankiweb.net/shared/info/1225470483](https://ankiweb.net/shared/info/1225470483)
