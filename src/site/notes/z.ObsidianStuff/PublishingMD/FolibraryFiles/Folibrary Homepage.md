@@ -11,7 +11,7 @@
 🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
 ★[📺 Twitch](https://twitch.tv/foliathr) ★
 
-~
+---
 ## Stream-related 📺
 ### Kyushu 九州 2024 🗾
 Follow and watch on [📺 Twitch](https://twitch.tv/foliathr)
@@ -25,7 +25,7 @@ I'm in Kyushu! Have been planning since 2019. Planned itinerary includes: Fukuok
 If you would like to help share some of the costs of streaming:
 \>\>\> Donate here <<<
 
-<a href="linkpls" style="background-color:#9a4ef1; display:inline-block; padding:0.3em 1.2em; margin:0 0.1em 0.1em 0; border:0.16em solid rgba(255,255,255,0); border-radius:2em; box-sizing: border-box; color:#FFFFFF; text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35); text-align:center">Button 6</a>
+<div style="display:block; margin:0.2em auto padding:0.3em 1.2em; margin:0 0.1em 0.1em 0; border:0.16em solid rgba(255,255,255,0); border-radius:2em; box-sizing: border-box; color:#FFFFFF; text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35); text-align:center"><a href="linkpls" style="display:inline-block; background-color:#9a4ef1">Button 6</a></div>
 
 
 Some breakdowns of costs:
@@ -45,6 +45,7 @@ Feel free to request:
 
 [[Creations/FoliathR Song Requests\|List of Songs for Requests]]
 
+---
 ## Japanese Language 🎌
 [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Learning Resources]]
 
