@@ -4,15 +4,17 @@
 
 # FoliathR Song Requests
 Requests? What kinds of requests? I don't know.
+
+I'm not responsible for your ear/mental damage if you choose the obviously dangerous ones.
 ## 1. Anime / Retro Anime
 ### Ghibli
 - Kaze Ni Naru
 - Kimi wo Nosete
 
 ### 90s and before
-- Mezase Pokémon Master めざせポケモンマスター (Pokémon)
-- Pegasus Fantasy ペガサスファンタジー (Saint Seiya)
-- Anime Janai アニメじゃない (Gundam ZZ)
+- Mezase Pokémon Master / めざせポケモンマスター (Pokémon)
+- Pegasus Fantasy / ペガサスファンタジー (Saint Seiya)
+- Anime Janai / アニメじゃない (Gundam ZZ)
 - Doraemon's theme
 - Moonlight Densetsu (Sailormoon)
 - Catch You Catch Me (Cardcaptor Sakura)
@@ -34,6 +36,7 @@ Requests? What kinds of requests? I don't know.
 - Yoru wo kakeru / 夜を駆ける
 - Homura / 炎 (鬼滅の刃)
 
+---
 ## 2. Games / MEMES
 ### Yakuza / Ryu ga gotoku 龍が如く
 - Baka Mitai / ばかみたい
@@ -43,21 +46,34 @@ Requests? What kinds of requests? I don't know.
 - Kamuro Junrenka / 神室純恋歌
 - KONNAN Janai! / KONNANじゃないっ！
 
+### Other games
+- Yume de aru you ni / 夢であるように (Tales of Destiny)
+
 ### MEMES
 - Platinum Disco (ver IKZO) / 白金ディスコもねぇ
 - Kyoufuu all-back / 強風オールバック
 - Kawaikute Gomen / 可愛くてごめん
 - Shukusei! Lolikami Requiem (Shigure Ui)
+
+---
 ## 3. Jpop / J-rock / Enka
 ### Enka
 - Sen No Kaze Ni Natte
 - Kawa No Nagare No You Ni
 
-### Jpop
-- 小さな恋のうた (MONGOL800)
+### Jpop / J-rock
+- Chiisana Koi no Uta / 小さな恋のうた (MONGOL800)
 - Pretender (Official髭男dism)
-- Konayuki 粉雪
+- I For You (Luna Sea)
+- Konayuki / 粉雪
 - Planetarium (Otsuka Ai)
+
+---
 ## 4. Random popular songs
 
+
+---
 ## 5. Others / Other languages
+### Disney
+- A Whole New World (Aladdin)
+- Let It Go (Frozen)

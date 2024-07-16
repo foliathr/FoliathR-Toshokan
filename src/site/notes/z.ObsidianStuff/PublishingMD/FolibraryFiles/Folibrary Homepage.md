@@ -13,12 +13,14 @@
 
 ---
 ## Stream-related 📺
-### Kyushu 九州 2024 🗾
+### 🗾 Kyushu 九州 2024 🗾
 Follow and watch on [📺 Twitch](https://twitch.tv/foliathr)
 
 ![Folibrary Homepage-20240716161747668.webp|100](/img/user/z.Images/image/Folibrary%20Homepage-20240716161747668.webp)
 
-I'm in Kyushu! Have been planning since 2019. Planned itinerary includes: Fukuoka, Nagasaki, Kumamoto, Kagoshima, Miyazaki, Oita (Beppu), Kitakyushu, Hiroshima and some random spots around Osaka.
+I'm in Kyushu! Have been planning since 2019. Planned itinerary includes: Fukuoka, Nagasaki, Kumamoto, Kagoshima, Miyazaki, Oita (Beppu), Kitakyushu, Hiroshima and some random spots around Osaka. 
+
+**Target Objective:** ~2-3hrs of streams a day in Kyushu. Could be separate or one long stream.
 
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 #### Donations/support for IRL stream and mayo
@@ -28,22 +30,24 @@ If you would like to help share some of the costs of streaming:
 
 Some breakdowns of costs:
 - Data: ~$80
-- Transport: ~$700
 - Equipment: ~$200
-- Mayo: ~$500 (jkjk)
+- Transport: ~$700 (Train) / ~$1200 (Plane)
+- ~~Mayo: ~$500~~
+- **Total: ~$2180**
 
 …yeah IRL is quite expensive, any support would be greatly appreciated. Thanks!
 
 ##### Donation Rewards and Milestones!
-If you don't know what songs I know, choose from the song list: [[Creations/FoliathR Song Requests\|Song Request Song List]]
+If you don't know what songs I know, choose from the song list: 
+[[Creations/FoliathR Song Requests\|Song Request Song List]]
 
-| Donation Rewards (Individual)                                                             | Milestones (Collective)                    |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------ |
-| $5 - Song request x1                                                                      | $75 - Lucky draw                           |
-| $20 - Above + Handwritten card                                                            | $100 - Cooking stream                      |
-| $50 - Above + 1 souvenir from Kyushu (optional if you don't want to give me your address) | $200 - Sus hotel stream                    |
-|                                                                                           | $300 - Onsen stream                        |
-|                                                                                           | $1000 - Okinawa/Hokkaido trip (you choose) |
+| Donation Rewards (Individual)                                                                                       | Milestones (Collective)                                                                    |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| $5 - Song request <br>(1 song per donation ≥$5)                                                                     | $75 - Lucky draw<br>(1 souvenir to ANY interested viewer - I'll post the link to the form) |
+| $20 - Above + Handwritten card <br>(1 per supporter)                                                                | $100 - Cooking stream                                                                      |
+| $50 - Above + 1 souvenir from Kyushu <br>(optional if you don't want to give me your address) <br>(1 per supporter) | $200 - Sus hotel stream<br>(mostly SFW)                                                    |
+|                                                                                                                     | $300 - Onsen stream<br>(mostly SFW)                                                        |
+|                                                                                                                     | $1000 - Okinawa/Hokkaido IRL stream<br>(poll)                                              |
 
 #### Request Form
 
@@ -53,11 +57,13 @@ Feel free to request:
 - Food places (snacks/restaurants)
 - Scenic places (parks/beaches/mountains)
 - Otaku places (eg Luffy statue in Kumamoto)
-- ???
+- ??? (feel free to ask; anything is possible)
 
 
 ---
 ## Japanese Language 🎌
+I have compiled some useful resources for Japanese learners of different levels, feel free to check it out!
+
 [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Learning Resources]]
 
 ---
