@@ -20,6 +20,13 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 **Target Objective:** ~2-3hrs of streams a day in Kyushu. Could be separate or one long stream.
 
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
+
+#### Channel Point Community Challenges
+- [ ] 10,000 pts - Karaoke Stream 30 mins (with guest?) **(ends 30 Aug)**
+- [ ] ? pts - Extend Karaoke Stream to 1 hour
+- [ ] ? pts - Kobe Stream
+- [ ] ? pts - Kobe Stream + Wagyu Restaurant Stream
+
 #### Donations/support for IRL stream and mayo
 If you would like to help share some of the costs of streaming:
 
@@ -38,15 +45,15 @@ Some breakdowns of costs:
 ##### Individual Donation Rewards
 If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
-| Per-Donation Rewards                                                       | Milestones (Individual)                                                                                      |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Any - Name on mayo bottle                                                  | Total ≥$20 - Handwritten card <br>*(1/supporter; analog or digital)*                                         |
-| $1 - TTS<br>                                                               | Total ≥$50 - Above<br>\+ 1 souvenir from Kyushu <br>*(1/supporter; optionally change to a 2nd digital card)* |
-| $5 - Song request<br>                                                      |                                                                                                              |
-| $10 - Dame dane                                                            |                                                                                                              |
-| $20 - Buy something ≤￥200 at Kombini/DonQuijote **AND** <br>put mayo on it |                                                                                                              |
-| $40 - Shikanokonokonokokoshitantan                                         |                                                                                                              |
-| $50 - 24 hours Cinderella                                                  |                                                                                                              |
+| Per-Donation Rewards                                                       | Milestones (Individual)                                                                              |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Any - Name on mayo bottle                                                  | Total ≥$20 - Handwritten card <br>*(1/supporter; analog or digital)*                                 |
+| $1 - TTS<br>                                                               | Total ≥$50 - Above<br>\+ 1 souvenir from Kyushu <br>*(1/supporter; optionally change to a 2nd card)* |
+| $5 - Song request<br>                                                      |                                                                                                      |
+| $10 - Dame dane                                                            |                                                                                                      |
+| $20 - Buy something ≤￥200 at Kombini/DonQuijote **AND** <br>put mayo on it |                                                                                                      |
+| $40 - Shikanokonokonokokoshitantan                                         |                                                                                                      |
+| $50 - 24 hours Cinderella                                                  |                                                                                                      |
 
 ##### Milestone Unlocks (Collective)
 
@@ -75,7 +82,7 @@ Feel free to request:
 ## Mastodon Feed
 Might post random stuff along the way.
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="100%" height="400" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Ffosstodon.org%2Fusers%2Ffoliathr&theme=dark&size=80&header=true&replies=false&boosts=false"></iframe>
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="400" height="660" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Ffosstodon.org%2Fusers%2Ffoliathr&theme=dark&size=80&header=true&replies=false&boosts=false"></iframe>
 
 ---
 ## Japanese Language Resources 🎌
