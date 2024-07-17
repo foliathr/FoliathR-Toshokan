@@ -32,16 +32,14 @@ If you would like to help share some of the costs of streaming:
 
 <a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
 
-Some breakdowns of costs:
-- Data: ~$80
-- Equipment: ~$200
-- Transport: ~$1900
-- ~~Mayo: ~$500~~
-- **Total: ~$2180**
+> [!NOTE]- Some breakdowns of costs:
+> - Data: ~$80
+> - Equipment: ~$200
+> - Transport: ~$1900
+> - ~~Mayo: ~$500~~
+> - **Total: ~$2180**
 
 …yeah IRL is quite expensive, any support would be greatly appreciated. Thanks!
-
-
 ##### Individual Donation Rewards
 If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
