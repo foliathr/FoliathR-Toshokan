@@ -34,10 +34,9 @@ Some breakdowns of costs:
 
 …yeah IRL is quite expensive, any support would be greatly appreciated. Thanks!
 
-##### Donation Rewards and Milestones!
-If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
-###### Individual Rewards
+##### Individual Donation Rewards
+If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
 | Per-Donation Rewards                                                       | Milestones (Individual)                                                                                      |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -49,9 +48,9 @@ If you don't know what songs I know, choose from the [[Creations/FoliathR Song R
 | $40 - Shikanokonokonokokoshitantan                                         |                                                                                                              |
 | $50 - 24 hours Cinderella                                                  |                                                                                                              |
 
-###### Milestones Goals (Collective)
+##### Milestone Unlocks (Collective)
 
-| Milestones Goals                                                                             |
+| Milestone Unlocks                                                                            |
 | -------------------------------------------------------------------------------------------- |
 | $75 - Lucky draw<br>*(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
 | $100 - Cooking stream                                                                        |
