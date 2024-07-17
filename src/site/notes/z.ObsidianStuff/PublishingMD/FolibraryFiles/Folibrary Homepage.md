@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"Meta/Folibrary Homepage.md\"","dg-permalink":"home","permalink":"/home/","tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowToc":"false","dgShowFileTree":"false","dgEnableSearch":"false","noteIcon":""}
+{"dg-publish":true,"dg-path":"\"Meta/Folibrary Homepage.md\"","dg-permalink":"home","permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowToc":"false","dgShowFileTree":"false","dgEnableSearch":"false","noteIcon":""}
 ---
 
 
@@ -18,7 +18,7 @@ Follow and watch on [📺 Twitch](https://twitch.tv/foliathr)
 
 ![Folibrary Homepage-20240716161747668.webp|100](/img/user/z.Images/image/Folibrary%20Homepage-20240716161747668.webp)
 
-I'm in Kyushu! Have been planning since 2019. Planned itinerary includes: Fukuoka, Nagasaki, Kumamoto, Kagoshima, Miyazaki, Oita (Beppu), Kitakyushu, Hiroshima and some random spots around Osaka. 
+I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary includes: Fukuoka, Nagasaki, Kumamoto, Kagoshima, Miyazaki, Oita (Beppu), Kitakyushu, Hiroshima and some random spots around Osaka. 
 
 **Target Objective:** ~2-3hrs of streams a day in Kyushu. Could be separate or one long stream.
 
@@ -26,7 +26,7 @@ I'm in Kyushu! Have been planning since 2019. Planned itinerary includes: Fukuok
 #### Donations/support for IRL stream and mayo
 If you would like to help share some of the costs of streaming:
 
-<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #000; border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
+<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
 
 Some breakdowns of costs:
 - Data: ~$80
@@ -41,24 +41,25 @@ Some breakdowns of costs:
 If you don't know what songs I know, choose from the song list: 
 [[Creations/FoliathR Song Requests\|Song Request Song List]]
 
-| Donation Rewards (Individual)                                                                                          | Milestones (Collective)                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| $5 - Song request <br>(1 song per donation ≥$5)                                                                        | $75 - Lucky draw<br>(1 souvenir to ANY interested viewer - I'll post the link to the form) |
-| $20 - Above <br>\+ Handwritten card  (1/supporter)<br>\+ Buy something below 200yen at Kombini/DonQuijote (1/donation) | $100 - Cooking stream                                                                      |
-| $50 - Above <br>\+ 1 souvenir from Kyushu <br>(1/supporter) (optional if you don't want to give me your address)       | $200 - Sus hotel stream<br>(mostly SFW)                                                    |
-|                                                                                                                        | $300 - Onsen stream<br>(mostly SFW)                                                        |
-|                                                                                                                        | $1000 - Okinawa/Hokkaido IRL stream<br>(poll)                                              |
+| Donation Rewards (Individual)                                                                                              | Milestones (Collective)                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| $5 - Song request <br>*(1 song per donation ≥$5)*                                                                          | $75 - Lucky draw<br>*(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
+| $20 - Above <br>\+ Handwritten card  *(1/supporter)*<br>\+ Buy something below 200yen at Kombini/DonQuijote *(1/donation)* | $100 - Cooking stream                                                                        |
+| $50 - Above <br>\+ 1 souvenir from Kyushu <br>*(1/supporter) (optional if you don't want to give me your address)*         | $200 - Sus hotel stream<br>*(mostly SFW)*                                                    |
+|                                                                                                                            | $300 - Onsen stream<br>*(mostly SFW)*                                                        |
+|                                                                                                                            | $1000 - Okinawa/Hokkaido IRL stream<br>*(poll)*                                              |
 
-#### Request Form
+#### Ideas/Suggestions Requests
 Requesting is free, just dump ideas or what you want to see using the form.
 
-<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #000; border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
+<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
 
 Feel free to request:
 - Food places (snacks/restaurants)
 - Scenic places (parks/beaches/mountains)
 - Otaku places (eg Luffy statue in Kumamoto)
 - ??? (feel free to ask; anything is possible)
+
 *※ Not guaranteed to happen*
 
 ---
