@@ -59,6 +59,12 @@ Feel free to request:
 *※ Not guaranteed to happen*
 
 ---
+## Mastodon Feed
+Might post random stuff along the way.
+
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="100%" height="400" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Ffosstodon.org%2Fusers%2Ffoliathr&theme=dark&size=80&header=true&replies=false&boosts=false"></iframe>
+
+---
 ## Japanese Language Resources 🎌
 I have compiled some useful resources for Japanese learners of different levels, feel free to check it out!
 
