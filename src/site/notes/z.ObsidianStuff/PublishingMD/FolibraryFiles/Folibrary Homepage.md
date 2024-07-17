@@ -26,7 +26,7 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 #### Donations/support for IRL stream and mayo
 If you would like to help share some of the costs of streaming:
 
-<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 4px 4px 2px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
+<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
 
 Some breakdowns of costs:
 - Data: ~$80
@@ -51,7 +51,7 @@ If you don't know what songs I know, choose from the [[Creations/FoliathR Song R
 #### Ideas/Suggestions Requests
 Requesting is free, just dump ideas or what you want to see using the form.
 
-<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 4px 4px 2px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
+<a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
 
 Feel free to request:
 - Food places (snacks/restaurants)
