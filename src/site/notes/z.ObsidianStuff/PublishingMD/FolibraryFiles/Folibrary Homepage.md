@@ -24,8 +24,7 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 #### Channel Point Community Challenges
 - [ ] 10,000 pts - Karaoke Stream 30 mins (with guest?) **(ends 30 Aug)**
 - [ ] ? pts - Extend Karaoke Stream to 1 hour
-- [ ] ? pts - Kobe Stream
-- [ ] ? pts - Kobe Stream + Wagyu Restaurant Stream
+- [ ] ? pts - Bonus Just Chatting Stream (~9-10pm GMT+9)
 
 #### Donations/support for IRL stream and mayo
 If you would like to help share some of the costs of streaming:
@@ -55,13 +54,13 @@ If you don't know what songs I know, choose from the [[Creations/FoliathR Song R
 
 ##### Milestone Unlocks (Collective)
 
-| Milestone Unlocks                                                                            |
-| -------------------------------------------------------------------------------------------- |
-| $75 - Lucky draw<br>*(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
-| $100 - Cooking stream                                                                        |
-| $200 - Sus hotel stream<br>*(mostly SFW)*                                                    |
-| $300 - Onsen stream<br>*(mostly SFW)*                                                        |
-| $1000 - Okinawa/Hokkaido IRL stream<br>*(poll)*                                              |
+| Milestone Unlocks                                                                         |
+| ----------------------------------------------------------------------------------------- |
+| $75 - Lucky draw *(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
+| $100 - Cooking stream                                                                     |
+| $200 - Sus hotel stream *(mostly SFW)*                                                    |
+| $300 - Onsen stream *(mostly SFW)*                                                        |
+| $1000 - Okinawa/Hokkaido IRL stream *(poll)*                                              |
 
 #### Ideas/Suggestions Requests
 Requesting is free, just dump ideas or what you want to see using the form.
@@ -78,7 +77,7 @@ Feel free to request:
 
 ---
 ## Mastodon Feed
-Might post random stuff along the way.
+Might post random stuff along the way off-stream.
 
 <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="400" height="660" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Ffosstodon.org%2Fusers%2Ffoliathr&theme=dark&size=80&header=true&replies=false&boosts=false"></iframe>
 
