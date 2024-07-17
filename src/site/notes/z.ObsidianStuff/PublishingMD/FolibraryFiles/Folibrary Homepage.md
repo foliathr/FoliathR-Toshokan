@@ -31,7 +31,7 @@ If you would like to help share some of the costs of streaming:
 Some breakdowns of costs:
 - Data: ~$80
 - Equipment: ~$200
-- Transport: ~$700 (Train) / ~$1200 (Plane)
+- Transport: ~$1900
 - ~~Mayo: ~$500~~
 - **Total: ~$2180**
 
@@ -41,15 +41,16 @@ Some breakdowns of costs:
 If you don't know what songs I know, choose from the song list: 
 [[Creations/FoliathR Song Requests\|Song Request Song List]]
 
-| Donation Rewards (Individual)                                                                                       | Milestones (Collective)                                                                    |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| $5 - Song request <br>(1 song per donation ≥$5)                                                                     | $75 - Lucky draw<br>(1 souvenir to ANY interested viewer - I'll post the link to the form) |
-| $20 - Above + Handwritten card <br>(1 per supporter)                                                                | $100 - Cooking stream                                                                      |
-| $50 - Above + 1 souvenir from Kyushu <br>(optional if you don't want to give me your address) <br>(1 per supporter) | $200 - Sus hotel stream<br>(mostly SFW)                                                    |
-|                                                                                                                     | $300 - Onsen stream<br>(mostly SFW)                                                        |
-|                                                                                                                     | $1000 - Okinawa/Hokkaido IRL stream<br>(poll)                                              |
+| Donation Rewards (Individual)                                                                                          | Milestones (Collective)                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| $5 - Song request <br>(1 song per donation ≥$5)                                                                        | $75 - Lucky draw<br>(1 souvenir to ANY interested viewer - I'll post the link to the form) |
+| $20 - Above <br>\+ Handwritten card  (1/supporter)<br>\+ Buy something below 200yen at Kombini/DonQuijote (1/donation) | $100 - Cooking stream                                                                      |
+| $50 - Above <br>\+ 1 souvenir from Kyushu <br>(1/supporter) (optional if you don't want to give me your address)       | $200 - Sus hotel stream<br>(mostly SFW)                                                    |
+|                                                                                                                        | $300 - Onsen stream<br>(mostly SFW)                                                        |
+|                                                                                                                        | $1000 - Okinawa/Hokkaido IRL stream<br>(poll)                                              |
 
 #### Request Form
+Requesting is free, just dump ideas or what you want to see using the form.
 
 <a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #000; border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
 
@@ -58,10 +59,10 @@ Feel free to request:
 - Scenic places (parks/beaches/mountains)
 - Otaku places (eg Luffy statue in Kumamoto)
 - ??? (feel free to ask; anything is possible)
-
+*※ Not guaranteed to happen*
 
 ---
-## Japanese Language 🎌
+## Japanese Language Resources 🎌
 I have compiled some useful resources for Japanese learners of different levels, feel free to check it out!
 
 [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Learning Resources]]
@@ -85,5 +86,5 @@ I have compiled some useful resources for Japanese learners of different levels,
 
 ---
 
-`© 2024 FoliathR. `
+`© 2024 FoliathR `
 <a rel="me" href="https://fosstodon.org/@foliathr"></a>
