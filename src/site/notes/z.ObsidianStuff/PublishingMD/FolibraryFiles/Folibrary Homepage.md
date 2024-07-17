@@ -32,7 +32,7 @@ If you would like to help share some of the costs of streaming:
 
 <a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
 
-> [!NOTE]- Some breakdowns of costs:
+> [!SUMMARY]- Some breakdowns of costs:
 > - Data: ~$80
 > - Equipment: ~$200
 > - Transport: ~$1900
