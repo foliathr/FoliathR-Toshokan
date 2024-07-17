@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"song-requests","permalink":"/song-requests/","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"songlist","permalink":"/songlist/","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","noteIcon":""}
 ---
 
 # FoliathR Song Requests
