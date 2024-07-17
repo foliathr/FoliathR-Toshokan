@@ -37,15 +37,27 @@ Some breakdowns of costs:
 ##### Donation Rewards and Milestones!
 If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
-| Per-Donation Rewards                                                       | Milestones (Individual)                                                                               | Milestones (Collective)                                                                      |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Any - Name on mayo bottle                                                  | $20 - Handwritten card <br>*(1/supporter; analog or digital)*                                         | $75 - Lucky draw<br>*(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
-| $1 - TTS<br>                                                               | $50 - Above<br>\+ 1 souvenir from Kyushu <br>*(1/supporter; optionally change to a 2nd digital card)* | $100 - Cooking stream                                                                        |
-| $5 - Song request<br>                                                      |                                                                                                       | $200 - Sus hotel stream<br>*(mostly SFW)*                                                    |
-| $10 - Dame dane                                                            |                                                                                                       | $300 - Onsen stream<br>*(mostly SFW)*                                                        |
-| $20 - Buy something ≤￥200 at Kombini/DonQuijote **AND** <br>put mayo on it |                                                                                                       | $1000 - Okinawa/Hokkaido IRL stream<br>*(poll)*                                              |
-| $40 - Shikanokonokonokokoshitantan                                         |                                                                                                       |                                                                                              |
-| $50 - 24 hours Cinderella                                                  |                                                                                                       |                                                                                              |
+###### Individual Rewards
+
+| Per-Donation Rewards                                                       | Milestones (Individual)                                                                                      |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Any - Name on mayo bottle                                                  | Total ≥$20 - Handwritten card <br>*(1/supporter; analog or digital)*                                         |
+| $1 - TTS<br>                                                               | Total ≥$50 - Above<br>\+ 1 souvenir from Kyushu <br>*(1/supporter; optionally change to a 2nd digital card)* |
+| $5 - Song request<br>                                                      |                                                                                                              |
+| $10 - Dame dane                                                            |                                                                                                              |
+| $20 - Buy something ≤￥200 at Kombini/DonQuijote **AND** <br>put mayo on it |                                                                                                              |
+| $40 - Shikanokonokonokokoshitantan                                         |                                                                                                              |
+| $50 - 24 hours Cinderella                                                  |                                                                                                              |
+
+###### Milestones Goals (Collective)
+
+| Milestones Goals                                                                             |
+| -------------------------------------------------------------------------------------------- |
+| $75 - Lucky draw<br>*(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
+| $100 - Cooking stream                                                                        |
+| $200 - Sus hotel stream<br>*(mostly SFW)*                                                    |
+| $300 - Onsen stream<br>*(mostly SFW)*                                                        |
+| $1000 - Okinawa/Hokkaido IRL stream<br>*(poll)*                                              |
 
 #### Ideas/Suggestions Requests
 Requesting is free, just dump ideas or what you want to see using the form.
