@@ -3,12 +3,9 @@
 ---
 
 
-# FoliathR's Library
+# FoliathR's Mini Page
 ようこそ 👋 Welcome! 
 
----
-## Me
-🖋  There may be 📱tech ramblings, 🎥movies, 🎵music, 🗾Japanese Language, ✈Travel logs, 🎮games, 🍙recipes and food reviews.
 ★[📺 Twitch](https://twitch.tv/foliathr) ★
 
 ---
@@ -68,7 +65,7 @@ I have compiled some useful resources for Japanese learners of different levels,
 [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Learning Resources]]
 
 ---
-## 💬 Ask a question
+## 💬 Ask a Question / Business Enquiries
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>
