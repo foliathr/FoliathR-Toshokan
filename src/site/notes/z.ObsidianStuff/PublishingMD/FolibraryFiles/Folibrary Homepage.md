@@ -21,12 +21,12 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 
-#### Channel Point Community Challenges
+#### Channel Point Community Challenges 💪
 - [ ] 10,000 pts - Karaoke Stream 30 mins (with guest?) **(ends 30 Aug)**
 - [ ] ? pts - Extend Karaoke Stream to 1 hour
 - [ ] ? pts - Bonus Just Chatting Stream (~9-10pm GMT+9)
 
-#### Donations/support for IRL stream and mayo
+#### Donations/support for IRL stream and mayo 🎊
 If you would like to help share some of the costs of streaming:
 
 <a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
@@ -39,20 +39,20 @@ If you would like to help share some of the costs of streaming:
 > - **Total: ~$2180**
 
 …yeah IRL is quite expensive, any support would be greatly appreciated. Thanks!
-##### Individual Donation Rewards
+##### Individual Donation Rewards 🎺
 If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
 | Per-Donation Rewards                                                       | Milestones (Individual)                                                                              |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Any - Name on mayo bottle                                                  | Total ≥$20 - Handwritten card <br>*(1/supporter; analog or digital)*                                 |
 | $1 - TTS<br>                                                               | Total ≥$50 - Above<br>\+ 1 souvenir from Kyushu <br>*(1/supporter; optionally change to a 2nd card)* |
-| $5 - Song request<br>                                                      |                                                                                                      |
+| $5 - Song request (for karaoke stream)<br>                                 |                                                                                                      |
 | $10 - Dame dane                                                            |                                                                                                      |
 | $20 - Buy something ≤￥200 at Kombini/DonQuijote **AND** <br>put mayo on it |                                                                                                      |
 | $40 - Shikanokonokonokokoshitantan                                         |                                                                                                      |
 | $50 - 24 hours Cinderella                                                  |                                                                                                      |
 
-##### Milestone Unlocks (Collective)
+##### Milestone Unlocks (Collective) 🍾
 
 | Milestone Unlocks                                                                         |
 | ----------------------------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ If you don't know what songs I know, choose from the [[Creations/FoliathR Song R
 | $300 - Onsen stream *(mostly SFW)*                                                        |
 | $1000 - Okinawa/Hokkaido IRL stream *(poll)*                                              |
 
-#### Ideas/Suggestions Requests
+#### Ideas/Suggestions Requests 📝
 Requesting is free, just dump ideas or what you want to see using the form.
 
 <a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
@@ -76,7 +76,7 @@ Feel free to request:
 *※ Not guaranteed to happen*
 
 ---
-## Mastodon Feed
+## Mastodon Feed 📱
 Might post random stuff along the way off-stream.
 
 <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="400" height="660" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Ffosstodon.org%2Fusers%2Ffoliathr&theme=dark&size=80&header=true&replies=false&boosts=false"></iframe>
