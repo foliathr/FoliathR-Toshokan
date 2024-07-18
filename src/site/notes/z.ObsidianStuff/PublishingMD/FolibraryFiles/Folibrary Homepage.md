@@ -22,7 +22,7 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 
 #### Channel Point Community Challenges 💪
-- [ ] 10,000 pts - Karaoke Stream 30 mins (with guest?) **(ends 30 Aug)**
+- [ ] 10,000 pts - Karaoke Stream 30 mins (no archive; with guest?) **(ends 30 Aug)**
 - [ ] ? pts - Extend Karaoke Stream to 1 hour
 - [ ] ? pts - Bonus Just Chatting Stream (~9-10pm GMT+9)
 
