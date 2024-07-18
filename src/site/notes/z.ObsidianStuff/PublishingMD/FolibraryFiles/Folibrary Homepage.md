@@ -49,9 +49,9 @@ If you don't know what songs I know, choose from the [[Creations/FoliathR Song R
 | $5 - Song request (for karaoke stream)<br>                                     | Total ≥$100 - Above<br>\+ 1 **more** souvenir from Kyushu<br>*(total 2)*                |
 | $10 - Gacha something                                                          |                                                                                         |
 | $11 - Dame dane                                                                |                                                                                         |
+| $12 - Shikanokonokonokokoshitantan                                             |                                                                                         |
+| $13 - 24 hours Cinderella                                                      |                                                                                         |
 | $20 - Buy something ≤￥200 at <br>Kombini/DonQuijote <br>**AND** put mayo on it |                                                                                         |
-| $40 - Shikanokonokonokokoshitantan                                             |                                                                                         |
-| $50 - 24 hours Cinderella                                                      |                                                                                         |
 
 *※ Shipping fee not included. I'll contact you separately for the exact shipping costs. If I can't ship to your area it'll be replaced with something digital.*
 
