@@ -42,17 +42,15 @@ If you would like to help share some of the costs of streaming:
 ##### Individual Donation Rewards 🎺
 If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
-| Per-Donation Rewards                                                   | Milestones (Individual)                                                                 |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Any - Name on mayo bottle                                              | Total ≥$20 - Handwritten card <br>*(analog or digital)*                                 |
-| $1 - TTS<br>                                                           | Total ≥$50 - Above<br>\+ 1 souvenir from Kyushu <br>*(optionally change to a 2nd card)* |
-| $5 - Song request (for karaoke stream)<br>                             | Total ≥$100 - Above<br>\+ 1 **more** souvenir from Kyushu<br>*(total 2)*                |
-| $10 - Gacha something                                                  |                                                                                         |
-| $11 - Dame dane                                                        |                                                                                         |
-| $20 - Buy something ≤￥200 at Kombini/DonQuijote **AND** put mayo on it |                                                                                         |
-| $40 - Shikanokonokonokokoshitantan                                     |                                                                                         |
-| $50 - 24 hours Cinderella                                              |                                                                                         |
-*※ Shipping fee not included. I'll contact you separately for the exact shipping costs. If I can't ship to your area it'll be replaced with something digital.*
+| Per-Donation Rewards                                                       | Milestones (Individual)                                                                              |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Any - Name on mayo bottle                                                  | Total ≥$20 - Handwritten card <br>*(1/supporter; analog or digital)*                                 |
+| $1 - TTS<br>                                                               | Total ≥$50 - Above<br>\+ 1 souvenir from Kyushu <br>*(1/supporter; optionally change to a 2nd card)* |
+| $5 - Song request (for karaoke stream)<br>                                 |                                                                                                      |
+| $10 - Dame dane                                                            |                                                                                                      |
+| $20 - Buy something ≤￥200 at Kombini/DonQuijote **AND** <br>put mayo on it |                                                                                                      |
+| $40 - Shikanokonokonokokoshitantan                                         |                                                                                                      |
+| $50 - 24 hours Cinderella                                                  |                                                                                                      |
 
 ##### Milestone Unlocks (Collective) 🍾
 
