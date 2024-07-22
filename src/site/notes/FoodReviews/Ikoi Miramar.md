@@ -8,6 +8,10 @@
 **Price:** SGD `INPUT[pricestring][:price]` 
 **Review:** `INPUT[foodreview10][:review]`
 **Location:** [Miramar Singapore](geo:1.28818515,103.83737959591224) tag:food/japanese
+**Revisits:** 
+```meta-bind
+INPUT[list(placeholder(2024-01-01)):revisits]
+```
 # To-do
 - [ ] Try maguro and mekajiki sashimi
 

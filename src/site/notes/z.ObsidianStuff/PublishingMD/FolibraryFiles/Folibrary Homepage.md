@@ -22,9 +22,9 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 
 #### 🎯 Channel Point Community Challenges
-- [ ] 10,000 pts - Karaoke Stream 30 mins (no archive; with guest?)
-- [ ] ? pts - Extend Karaoke Stream to 1 hour
-- [ ] ? pts - Bonus Just Chatting Stream (~9-10pm GMT+9)
+- [ ] 10,000 pts - 🎤🎵 Karaoke Stream 30 mins (no archive; with guest?)
+- [ ] ? pts - 🎤🎵🎵 Extend Karaoke Stream to 1 hour
+- [ ] ? pts - 🎙️ Bonus Just Chatting Stream (~9-10pm GMT+9)
 
 #### 💪 Donations/support for IRL stream and mayo
 If you would like to help share some of the costs of streaming:
@@ -42,29 +42,28 @@ If you would like to help share some of the costs of streaming:
 ##### Individual Donation Rewards 🎺
 If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
-| Per-Donation Rewards                                                           | Milestones (Individual)                                                                 |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| Any - Name on mayo bottle                                                      | Total ≥$20 - Handwritten card <br>*(analog or digital)*                                 |
-| ≥$1 - TTS<br>                                                                  | Total ≥$50 - Above<br>\+ 1 souvenir from Kyushu <br>*(optionally change to a 2nd card)* |
-| $5 - Song request (for karaoke stream)<br>                                     | Total ≥$100 - Above<br>\+ 1 **more** souvenir from Kyushu<br>*(total 2)*                |
-| $10 - Gacha something                                                          |                                                                                         |
-| $11 - Dame dane                                                                |                                                                                         |
-| $12 - Shikanokonokonokokoshitantan                                             |                                                                                         |
-| $13 - 24 hours Cinderella                                                      |                                                                                         |
-| $20 - Buy something ≤￥200 at <br>Kombini/DonQuijote <br>**AND** put mayo on it |                                                                                         |
-|                                                                                |                                                                                         |
+| Per-Donation Rewards                                                              | Milestones (Individual)                                                                      |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Any - 📛 Name on mayo bottle                                                      | Total ≥$20 - 📝 Handwritten card <br>*(analog or digital)*                                   |
+| ≥$1 - 📣 TTS<br>                                                                  | Total ≥$50 - 📝🎁 Above<br>\+ 1 souvenir from Kyushu <br>*(optionally change to a 2nd card)* |
+| $5 - ✏️ Song request (for karaoke stream)<br>                                     | Total ≥$100 - 📝🎁🎁 Above<br>\+ 1 **more** souvenir from Kyushu<br>*(total 2)*              |
+| $10 - 🪙 Gacha something                                                          |                                                                                              |
+| $11 - 🎶 Dame dane                                                                |                                                                                              |
+| $12 - 🎶 Shikanokonokonokokoshitantan                                             |                                                                                              |
+| $13 - 🎶 24 hours Cinderella                                                      |                                                                                              |
+| $20 - 🍤 Buy something ≤￥200 at <br>Kombini/DonQuijote <br>**AND** put mayo on it |                                                                                              |
 
 *※ Shipping fee not included. I'll contact you separately for the exact shipping costs. If I can't ship to your area it'll be replaced with something digital.*
 
 ##### Milestone Unlocks (Collective) 🍾 🎊
 
-| Milestone Unlocks                                                                         |
-| ----------------------------------------------------------------------------------------- |
-| $75 - Lucky draw *(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
-| $100 - Cooking stream                                                                     |
-| $200 - Sus hotel stream *(mostly SFW)*                                                    |
-| $300 - Onsen stream *(mostly SFW)*                                                        |
-| $1000 - Okinawa/Hokkaido IRL stream *(poll)*                                              |
+| Milestone Unlocks                                                                            |
+| -------------------------------------------------------------------------------------------- |
+| $75 - 🎁 Lucky draw *(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
+| $100 - 🍜 Cooking stream                                                                     |
+| $200 - 🏩 Sus hotel stream *(mostly SFW)*                                                    |
+| $300 - ♨️ Onsen stream *(mostly SFW)*                                                        |
+| $1000 - ✈️ Okinawa/Hokkaido IRL stream *(poll)*                                              |
 
 #### 📝 Ideas/Suggestions Requests
 Requesting is free, just dump ideas or what you want to see using the form.
@@ -110,5 +109,6 @@ I have compiled some useful resources for Japanese learners of different levels,
 
 ---
 
+*Unless otherwise stated, currencies in SGD. Nothing is guaranteed as unexpected stuff can happen.*
 `© 2024 FoliathR `
 <a rel="me" href="https://fosstodon.org/@foliathr"></a>

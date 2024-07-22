@@ -16,6 +16,7 @@
 
 | Page                                                                                                           | Updated    | Category                                    | Lang |
 | -------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------- | ---- |
+| [[FoodReviews/Ikoi Miramar\|Ikoi Miramar]]                                                                  | 22/07/2024 | FoodReviews                                 | \-   |
 | [[Creations/FoliathR Song Requests\|FoliathR Song Requests]]                                                | 18/07/2024 | Creations                                   | \-   |
 | [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Japanese Language Learning Resources]] | 17/07/2024 | Misc Research/JP Language                   | \-   |
 | [[Recipes/Tofu Ice Cream Vegan\|Tofu Ice Cream: Decadent Vegan Ice Cream]]                                  | 28/06/2024 | Recipes                                     | GB   |
@@ -23,7 +24,6 @@
 | [[FoodReviews/Tsukemen Tetsu\|Tsukemen Tetsu]]                                                              | 14/01/2024 | FoodReviews                                 | \-   |
 | [[FoodReviews/Kushi Dining\|Kushi Dining]]                                                                  | 12/01/2024 | FoodReviews                                 | \-   |
 | [[FoodReviews/Keisuke Tonkotsu King Ramen\|Keisuke Tonkotsu King Ramen]]                                    | 12/01/2024 | FoodReviews                                 | \-   |
-| [[FoodReviews/Ikoi Miramar\|Ikoi Miramar]]                                                                  | 12/01/2024 | FoodReviews                                 | \-   |
 | [[z.ObsidianStuff/PublishingMD/FolibraryFiles/Folibrary Secret Homepage\|Folibrary Secret Homepage]]        | 22/12/2023 | z.ObsidianStuff/PublishingMD/FolibraryFiles | \-   |
 | [[Recipes/Tofu Ice Cream - YouTube\|Tofu Ice Cream (YouTube)]]                                              | 20/12/2023 | Recipes                                     | GB   |
 
