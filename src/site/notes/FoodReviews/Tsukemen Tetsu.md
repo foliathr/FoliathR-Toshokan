@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/food-reviews/tsukemen-tetsu/","tags":["food","foodreview","review","tsukemen","singapore"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/FoodReviews/Tsukemen Tetsu/","tags":["food","foodreview","review","tsukemen","singapore"],"noteIcon":""}
 ---
 
 ![tp.web.random_picture](https://images.unsplash.com/photo-1506976785307-8732e854ad03?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dHN1a2VtZW4sZm9vZCxyZXN0YXVyYW50LGRpbmluZ3x8fHx8fDE2NTc3Nzg0MDc&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=480)

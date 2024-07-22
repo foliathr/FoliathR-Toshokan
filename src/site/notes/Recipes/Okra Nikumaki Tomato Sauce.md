@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/okra-nikumaki-tomato-sauce/","title":"Okra Nikumaki Tomato Sauce","tags":["recipe","okra","pork","eggplant","lotusroot","asian","japanese","maindish"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Recipes/Okra Nikumaki Tomato Sauce/","title":"Okra Nikumaki Tomato Sauce","tags":["recipe","okra","pork","eggplant","lotusroot","asian","japanese","maindish"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc-research/math-jax-quick-reference/","title":"MathJax Quick Reference (Concise and Clean Edition)","tags":["clips","mathjax","guides","obsidian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Misc Research/MathJax quick reference/","title":"MathJax Quick Reference (Concise and Clean Edition)","tags":["clips","mathjax","guides","obsidian"],"noteIcon":""}
 ---
 
 

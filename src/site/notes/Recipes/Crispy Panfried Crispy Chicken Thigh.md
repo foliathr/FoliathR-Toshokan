@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/crispy-panfried-crispy-chicken-thigh/","title":"Crispy Panfried Crispy Chicken Thigh","tags":["clips","recipe","chicken","crispy","panfry","tip"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Recipes/Crispy Panfried Crispy Chicken Thigh/","title":"Crispy Panfried Crispy Chicken Thigh","tags":["clips","recipe","chicken","crispy","panfry","tip"],"noteIcon":""}
 ---
 
 

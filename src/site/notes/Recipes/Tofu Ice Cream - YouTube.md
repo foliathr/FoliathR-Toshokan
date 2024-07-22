@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/tofu-ice-cream-you-tube/","title":"Tofu Ice Cream (YouTube)","tags":["recipe","tofu","icecream","dessert","youtube","asian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Recipes/Tofu Ice Cream - YouTube/","title":"Tofu Ice Cream (YouTube)","tags":["recipe","tofu","icecream","dessert","youtube","asian"],"noteIcon":""}
 ---
 
 

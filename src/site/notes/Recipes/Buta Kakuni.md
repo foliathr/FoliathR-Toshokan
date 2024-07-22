@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/buta-kakuni/","title":"Buta Kakuni (Hard to Fail)","tags":["recipe","asian","pork","japanese","maindish"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Recipes/Buta Kakuni/","title":"Buta Kakuni (Hard to Fail)","tags":["recipe","asian","pork","japanese","maindish"],"noteIcon":""}
 ---
 
 

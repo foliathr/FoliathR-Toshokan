@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crafting/how-to-make-recycled-paper/","tags":["diy","paper","craft","recycling"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Crafting/How to make recycled paper/","tags":["diy","paper","craft","recycling"],"noteIcon":""}
 ---
 
 <iframe src="https://www.youtube.com/embed/5xrWrKIVBgo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>

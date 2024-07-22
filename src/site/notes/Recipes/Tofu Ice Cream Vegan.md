@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/tofu-ice-cream-vegan/","title":"Tofu Ice Cream: Decadent Vegan Ice Cream","tags":["recipe","tofu","dessert","icecream","asian"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Recipes/Tofu Ice Cream Vegan/","title":"Tofu Ice Cream: Decadent Vegan Ice Cream","tags":["recipe","tofu","dessert","icecream","asian"],"noteIcon":""}
 ---
 
 
