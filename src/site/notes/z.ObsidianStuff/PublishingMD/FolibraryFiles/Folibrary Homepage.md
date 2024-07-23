@@ -57,6 +57,8 @@ If you don't know what songs I know, choose from the [[Creations/FoliathR Song R
 
 ##### Milestone Unlocks (Collective) 🍾 🎊
 
+The milestones have to be reached before end-Oct due to time constraints.
+
 | Milestone Unlocks                                                                            |
 | -------------------------------------------------------------------------------------------- |
 | $75 - 🎁 Lucky draw *(1 souvenir to ANY interested viewer - I'll post the link to the form)* |
