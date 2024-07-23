@@ -16,15 +16,15 @@
 
 | Page                                                                                                           | Updated    | Category                                    | Lang |
 | -------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------- | ---- |
+| [[z.ObsidianStuff/PublishingMD/FolibraryFiles/Folibrary Secret Homepage\|Folibrary Secret Homepage]]        | 23/07/2024 | z.ObsidianStuff/PublishingMD/FolibraryFiles | \-   |
+| [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Japanese Language Learning Resources]] | 23/07/2024 | Misc Research/JP Language                   | \-   |
 | [[FoodReviews/Ikoi Miramar\|Ikoi Miramar]]                                                                  | 22/07/2024 | FoodReviews                                 | \-   |
 | [[Creations/FoliathR Song Requests\|FoliathR Song Requests]]                                                | 18/07/2024 | Creations                                   | \-   |
-| [[Misc Research/JP Language/01 Japanese Language Learning Resources\|Japanese Language Learning Resources]] | 17/07/2024 | Misc Research/JP Language                   | \-   |
 | [[Recipes/Tofu Ice Cream Vegan\|Tofu Ice Cream: Decadent Vegan Ice Cream]]                                  | 28/06/2024 | Recipes                                     | GB   |
 | [[Recipes/Mayaku Tamago 麻薬卵\|Mayaku Tamago 麻薬卵]]                                                            | 26/01/2024 | Recipes                                     | JP   |
 | [[FoodReviews/Tsukemen Tetsu\|Tsukemen Tetsu]]                                                              | 14/01/2024 | FoodReviews                                 | \-   |
 | [[FoodReviews/Kushi Dining\|Kushi Dining]]                                                                  | 12/01/2024 | FoodReviews                                 | \-   |
 | [[FoodReviews/Keisuke Tonkotsu King Ramen\|Keisuke Tonkotsu King Ramen]]                                    | 12/01/2024 | FoodReviews                                 | \-   |
-| [[z.ObsidianStuff/PublishingMD/FolibraryFiles/Folibrary Secret Homepage\|Folibrary Secret Homepage]]        | 22/12/2023 | z.ObsidianStuff/PublishingMD/FolibraryFiles | \-   |
 | [[Recipes/Tofu Ice Cream - YouTube\|Tofu Ice Cream (YouTube)]]                                              | 20/12/2023 | Recipes                                     | GB   |
 
 { .block-language-dataview}
@@ -57,6 +57,14 @@
 { .block-language-dataview}
 
 ---
+
+## Japanese Language Resources 🎌
+I have compiled some useful resources for Japanese learners of different levels, feel free to check it out!
+
+[[Misc Research/JP Language/01 Japanese Language Learning Resources\|Compilation of Japanese Language Learning Resources]]
+
+---
+
 ## 💬 Ask a question
 <form name="contact" method="POST" data-netlify="true">
   <p>
