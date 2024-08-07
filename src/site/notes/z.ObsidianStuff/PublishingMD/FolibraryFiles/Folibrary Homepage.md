@@ -22,9 +22,9 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 
 #### 🎯 Channel Point Community Challenges
-- [ ] 10,000 pts - <span style="background-color: yellow; border-radius:1em;padding:0.2em;">🎤🎵</span> Karaoke Stream 30 mins (no archive; with guest?)
-- [ ] ? pts - <span style="background-color: yellow; border-radius:1em;padding:0.2em;">🎤🎵🎵</span> Extend Karaoke Stream to 1 hour
-- [ ] ? pts - <span style="background-color: yellow; border-radius:1em;padding:0.2em;">🎙️</span> Bonus Just Chatting Stream (~9-10pm GMT+9)
+- [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎤🎵</span> 10,000 pts - Karaoke Stream 30 mins (no archive; with guest?)
+- [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎤🎵🎵</span> ? pts - Extend Karaoke Stream to 1 hour
+- [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎙️</span> ? pts - Bonus Just Chatting Stream (~9-10pm GMT+9)
 
 #### 💪 Donations/support for IRL stream and mayo
 If you would like to help share some of the costs of streaming:
@@ -67,8 +67,8 @@ Unlocked when **total** exceeds these milestones. The milestones have to be reac
 | $300 - ♨️ Onsen stream *(mostly SFW)*                                                        |
 | $1000 - ✈️ Okinawa/Hokkaido IRL stream *(poll)*                                              |
 
-#### 📝 Ideas/Suggestions Requests
-Requesting is free, just dump ideas or what you want to see using the form.
+#### 📝 FREE Ideas/Suggestions Requests
+Requesting is **free**, just dump ideas or what you want to see using the form.
 
 <a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
 
