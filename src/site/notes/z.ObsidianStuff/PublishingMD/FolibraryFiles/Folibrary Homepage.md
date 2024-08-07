@@ -80,6 +80,32 @@ Feel free to request:
 
 *※ Not guaranteed to happen*
 
+```tabs
+tab: test 1
+content
+content
+
+tab: tab 2
+content2
+more content
+```
+
+
+--- start-multi-column: ID_ml88
+```column-settings
+Number of Columns: 2
+Largest Column: left
+```
+column 1 content
+more content
+
+--- column-break ---
+column 2
+some content 2
+--- end-multi-column
+
+
+
 ---
 ## Mastodon Feed 📱
 Might post random stuff along the way off-stream.
