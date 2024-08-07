@@ -22,9 +22,9 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 
 #### 🎯 Channel Point Community Challenges
-- [ ] 10,000 pts - 🎤🎵 Karaoke Stream 30 mins (no archive; with guest?)
-- [ ] ? pts - 🎤🎵🎵 Extend Karaoke Stream to 1 hour
-- [ ] ? pts - 🎙️ Bonus Just Chatting Stream (~9-10pm GMT+9)
+- [ ] 10,000 pts - <span style="background-color: yellow; border-radius:1em;padding:0.2em;">🎤🎵</span> Karaoke Stream 30 mins (no archive; with guest?)
+- [ ] ? pts - <span style="background-color: yellow; border-radius:1em;padding:0.2em;">🎤🎵🎵</span> Extend Karaoke Stream to 1 hour
+- [ ] ? pts - <span style="background-color: yellow; border-radius:1em;padding:0.2em;">🎙️</span> Bonus Just Chatting Stream (~9-10pm GMT+9)
 
 #### 💪 Donations/support for IRL stream and mayo
 If you would like to help share some of the costs of streaming:
@@ -42,16 +42,16 @@ If you would like to help share some of the costs of streaming:
 ##### Individual Donation Rewards 🎺
 If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
-| Per-Donation Rewards                                                                     | Milestones (Individual)                                                                      |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Any - 📛 Name on mayo bottle                                                             | Total ≥$20 - 📝 Handwritten card <br>*(analog or digital)*                                   |
-| ≥$1 - 📣 TTS<br>                                                                         | Total ≥$50 - 📝🎁 Above<br>\+ 1 souvenir from Kyushu <br>*(optionally change to a 2nd card)* |
-| $5 - 🎶 *Dame dane (Baka Mitai)*                                                         | Total ≥$100 - 📝🎁🎁 Above<br>\+ 1 **more** souvenir from Kyushu<br>*(total 2)*              |
-| $6 - 🎶 *24 Hours Cinderella*                                                            |                                                                                              |
-| $7 - 🎶 *Shikanokonokonokokoshitantan*                                                   |                                                                                              |
-| $9 - ✏️ Song request (for karaoke stream)<br>                                            |                                                                                              |
-| $10 - 🪙 Gacha something                                                                 |                                                                                              |
-| $20 - 🍤 Buy something edible ≤￥200 at <br>Kombini/DonQuijote <br>**AND** put mayo on it |                                                                                              |
+| Per-Donation Rewards                                                                                                    | Milestones (Individual)                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Any - 📛 Name on mayo bottle                                                                                            | Total ≥$20 - 📝 Handwritten card <br>*(analog or digital)*                                   |
+| ≥$1 - 📣 TTS<br>                                                                                                        | Total ≥$50 - 📝🎁 Above<br>\+ 1 souvenir from Kyushu <br>*(optionally change to a 2nd card)* |
+| $5 - <span style="background-color: #cccccc; border-radius:1em;padding:0.2em;">🎶</span> *Dame dane (Baka Mitai)*       | Total ≥$100 - 📝🎁🎁 Above<br>\+ 1 **more** souvenir from Kyushu<br>*(total 2)*              |
+| $6 - <span style="background-color: #cccccc; border-radius:1em;padding:0.2em;">🎶</span> *24 Hours Cinderella*          |                                                                                              |
+| $7 - <span style="background-color: #cccccc; border-radius:1em;padding:0.2em;">🎶</span> *Shikanokonokonokokoshitantan* |                                                                                              |
+| $9 - ✏️ Song request (for karaoke stream)<br>                                                                           |                                                                                              |
+| $10 - 🪙 Gacha something                                                                                                |                                                                                              |
+| $20 - 🍤 Buy something edible ≤￥200 at <br>Kombini/DonQuijote <br>**AND** put mayo on it                                |                                                                                              |
 
 *※ Shipping fee not included. I'll contact you separately for the exact shipping costs. If I can't ship to your area it'll be replaced with something digital.*
 
