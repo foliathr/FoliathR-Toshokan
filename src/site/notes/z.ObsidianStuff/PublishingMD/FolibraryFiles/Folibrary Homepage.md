@@ -21,7 +21,7 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 
-#### 🎯 Channel Point Community Challenges
+#### 🎯 <span style="color:#ffe54f; border-bottom: 1px solid; width:100%;">Channel Point Community Challenges</span>
 - [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎤🎵</span> 10,000 pts - Karaoke Stream 30 mins (no archive; with guest?)
 - [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎤🎵🎵</span> ? pts - Extend Karaoke Stream to 1 hour
 - [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎙️</span> ? pts - Bonus Just Chatting Stream (~9-10pm GMT+9)
