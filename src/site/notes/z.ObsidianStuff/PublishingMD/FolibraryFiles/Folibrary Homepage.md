@@ -10,7 +10,7 @@
 
 ---
 ## Stream-related 📺
-### 🗾 Kyushu 九州 2024 🗾
+### <span style="color:#ffe54f;">🗾 Kyushu 九州 2024 🗾</span>
 Follow and watch on [📺 Twitch](https://twitch.tv/foliathr)
 
 ![Folibrary Homepage-20240716161747668.webp|100](/img/user/z.Images/image/Folibrary%20Homepage-20240716161747668.webp)
@@ -21,12 +21,12 @@ I'm in Kyushu! Have been thinking about it since 2019. Planned itinerary include
 
 ![Folibrary Homepage-20240716161544571.webp](/img/user/z.Images/image/Folibrary%20Homepage-20240716161544571.webp)
 
-#### 🎯 <span style="color:#ffe54f; border-bottom: 1px solid; width:100%;">Channel Point Community Challenges</span>
+#### <span style="color:#ffe54f; border-bottom: 1px solid; width:100%;display:block;">🎯 Channel Point Community Challenges</span>
 - [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎤🎵</span> 10,000 pts - Karaoke Stream 30 mins (no archive; with guest?)
 - [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎤🎵🎵</span> ? pts - Extend Karaoke Stream to 1 hour
 - [ ] <span style="background-color: #ffe54f; border-radius:1em;padding:0.2em;">🎙️</span> ? pts - Bonus Just Chatting Stream (~9-10pm GMT+9)
 
-#### 💪 Donations/support for IRL stream and mayo
+#### <span style="color:#ffe54f; border-bottom: 1px solid; width:100%;display:block;">💪 Donations/support for IRL stream and mayo </span>
 If you would like to help share some of the costs of streaming:
 
 <a href="https://streamlabs.com/foliathr/tip" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #000; background-color: #ffe54f; font-weight: 600;">Donate/Support/Give Mayo</a>
@@ -39,7 +39,7 @@ If you would like to help share some of the costs of streaming:
 > - **Total: ~$2180**
 
 …yeah IRL is quite expensive, any support would be greatly appreciated. Thanks!
-##### Individual Donation Rewards 🎺
+##### <span style="color:#6aff4f;">Individual Donation Rewards 🎺</span>
 If you don't know what songs I know, choose from the [[Creations/FoliathR Song Requests\|Song List]].
 
 | Per-Donation Rewards                                                                                                    | Milestones (Individual)                                                                      |
@@ -55,7 +55,7 @@ If you don't know what songs I know, choose from the [[Creations/FoliathR Song R
 
 *※ Shipping fee not included. I'll contact you separately for the exact shipping costs. If I can't ship to your area it'll be replaced with something digital.*
 
-##### Combined Milestone Unlocks 🍾 🎊
+##### <span style="color:#6aff4f;">Combined Milestone Unlocks 🍾 🎊</span>
 
 Unlocked when **total** exceeds these milestones. The milestones have to be reached before end-Oct due to time constraints.
 
@@ -67,7 +67,7 @@ Unlocked when **total** exceeds these milestones. The milestones have to be reac
 | $300 - ♨️ Onsen stream *(mostly SFW)*                                                        |
 | $1000 - ✈️ Okinawa/Hokkaido IRL stream *(poll)*                                              |
 
-#### 📝 FREE Ideas/Suggestions Requests
+#### <span style="color:#ffe54f; border-bottom: 1px solid; width:100%;display:block;">📝 FREE Ideas/Suggestions Requests</span>
 Requesting is **free**, just dump ideas or what you want to see using the form.
 
 <a href="#" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid #ccc; box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .1); border-radius: 2em; text-decoration: none; color: #eee; background-color: #4f6aff; font-weight: 600;">Open Request Form</a>
